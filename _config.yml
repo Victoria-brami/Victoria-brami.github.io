@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Victoria Brami"
   avatar           : "profile.png"
-  bio              : "Student Mathematics/Deep Learning/Computer vision"
-  location         : "ENS Paris-Saclay/Ecole des Ponts ParisTech, France"
+  bio              : "Student Graduated from MVA Master (Mathematics/Deep Learning/Computer Vision) at ENS Paris-Saclay and Ecole des Ponts ParisTech"
+  location         : "Paris, FRANCE"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/victoria-brami/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -184,7 +184,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  projects: # replaced talks
     output: true
     permalink: /:collection/:path/
 
