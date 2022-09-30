@@ -59,7 +59,7 @@ laws make them mandatory. </p>
   </tr>
   <tr onmouseout="ffcc_stop()" onmouseover="ffcc_start()" >
     <td width="45%">
-      <img src="../project_images/speech_evaluation_pipeline.JPG" />
+      <img src="/project_images/speech_evaluation_pipeline.JPG" />
     </td>
     <td valign="top" width="55%">
       <p><a href="https://victoria-brami.github.io">
