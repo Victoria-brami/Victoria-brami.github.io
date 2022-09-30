@@ -72,6 +72,6 @@ laws make them mandatory. </p>
       <p></p>
     </td>
   </tr>
-  </table>
-  </body>
+</table>
+</body>
 </html>
