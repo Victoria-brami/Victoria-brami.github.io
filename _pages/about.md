@@ -44,6 +44,7 @@ Selected Projects
     <td width="45%">
       <img src="project_images/vp11_3_test_visual_single.gif" />
     </td>
+    <a href="https://github.com/naver/tldr" target="_blank">
     <td valign="top" width="55%">
       <p><a href="https://victoria-brami.github.io">
       <papertitle>3D Pose Estimation for Driver Monitoring</papertitle></a><br>
@@ -56,6 +57,7 @@ laws make them mandatory. </p>
       </p>
       <p></p>
     </td>
+    </a>
   </tr>
   <tr onmouseout="ffcc_stop()" onmouseover="ffcc_start()" >
     <td width="45%">
