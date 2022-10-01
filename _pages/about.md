@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Victoria Brami's page"
+title: " "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -100,7 +100,7 @@ span.highlight {
 <body>
 <date_title>2022</date_title>
   <hr style="width:80%;text-align:left;margin-left:0">
-  <table width="140%" align="justify" border="0" cellspacing="0" cellpadding="20">
+  <table width="100%" align="justify" border="0" cellspacing="0" cellpadding="20">
 
   <tr onmouseout="ffcc_stop()" onmouseover="ffcc_start()" >
     <td width="45%">
@@ -124,7 +124,7 @@ span.highlight {
   <p></p>
   <date_title>2021</date_title>
   <hr style="width:80%;text-align:left;margin-left:0">
-  <table width="140%" align="justify" border="0" cellspacing="0" cellpadding="20">
+  <table width="100%" align="justify" border="0" cellspacing="0" cellpadding="20">
   <tr onmouseout="ffcc_stop()" onmouseover="ffcc_start()" >
     <td width="45%">
       <img src="../images/speech_evaluation_pipeline.JPG" />
