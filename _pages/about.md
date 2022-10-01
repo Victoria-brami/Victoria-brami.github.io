@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome !"
+title: "Victoria Brami's page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Student in Machine Learning, just graduated from the ENS (Ecole Normale Supérieure) Paris-Saclay and Ecole des Ponts ParisTech with an MSc. in Applied Mathematics, Deep Learning and Computer Vision (**Master MVA**). 
+Welcome !I am a Student in Machine Learning, just graduated from the ENS (Ecole Normale Supérieure) Paris-Saclay and Ecole des Ponts ParisTech with an MSc. in Applied Mathematics, Deep Learning and Computer Vision (**Master MVA**). 
 
 Previously I have done various research internships in Computer Vision. The latest one was in Valeo.ai where I was supervised by [Patrick Perez](http://ptrckprz.github.io): my research focused on developping Driver Monitoring Sytems throuch the analysis of the driver with 3D Pose Estimation.
 
