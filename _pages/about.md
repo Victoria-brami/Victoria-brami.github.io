@@ -35,44 +35,70 @@ Here is a list of the different courses I followed during the master:
 
 Selected Projects
 ======
+Here are some examples of the projects I have carried out, don't hesitate to click [here](http://victoria-brami.github.io/hobbies/) for more!
+There are more to come of course ;)
 <html>
+<head>
+<style>
+table, th, td {
+  border: 0px solid black;
+  border-collapse: collapse;
+}
+body,td,th,tr,p,a {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 14px
+}
+date_title {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 22px
+}
+strong {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 14px;
+    }
+heading {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 22px;
+}
+papertitle {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 700
+}
+name {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 32px;
+    }
+.one
+    {
+    width: 160px;
+    height: 160px;
+    position: relative;
+    }
+.two
+    {
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    transition: opacity .2s ease-in-out;
+    -moz-transition: opacity .2s ease-in-out;
+    -webkit-transition: opacity .2s ease-in-out;
+    }
+.fade {
+     transition: opacity .2s ease-in-out;
+     -moz-transition: opacity .2s ease-in-out;
+     -webkit-transition: opacity .2s ease-in-out;
+    }
+span.highlight {
+        background-color: #ffffd0;
+    }
+</style>
+</head>
 <body>
-  <table width="120%" align="justify" border="0" cellspacing="0" cellpadding="20">
+<date_title>2022</date_title>
+  <hr style="width:120%;text-align:left;margin-left:0">
+  <table width="140%" align="justify" border="0" cellspacing="0" cellpadding="20">
 
-   <tr onmouseout="ffcc_stop()" onmouseover="ffcc_start()" >
-    <td width="45%">
-      <img src="project_images/vp11_3_test_visual_single.gif" />
-    </td>
-    <td valign="top" width="55%">
-      <p><a href="https://victoria-brami.github.io">
-      <papertitle>3D Pose Estimation for Driver Monitoring - 1</papertitle></a><br>
-      Victoria Brami,  <strong>Patrick Pérez</strong>, Renaud Marlet and Souhaiel Khalfaoui.<br>
-      <em>Valeo AI research project</em>, April-September 2022 <strong>(Oral)</strong> <br>
-      <p></p>
-      <p align=justify> 
-      </p>
-      <p>Each year, almost 20 000 people die in Europe's roads in car accidents. Driver's distraction account for 20% of them. We propose to investigate the best 3D Driver Realtime Pose Estimation for action recognition purpose and understand car passengers needs. This is an opportunity for the automotive industry since driver and interior monitoring systems
-      (DMS and IMS), which require the detailed understanding of a car’s passengers typically with a single camera, are gaining more importance every day. Systems that detect driver’s drowsiness or distraction are already deployed in numerous vehicles, and will continue to expand as new
-      laws make them mandatory.</p>
-    </td>
-  </tr>
-  <tr onmouseout="ffcc_stop()" onmouseover="ffcc_start()" >
-    <td width="45%">
-      <img src="./images/vp11_3_test_visual_single.gif" />
-    </td>
-    <td valign="top" width="55%">
-      <p><a href="https://victoria-brami.github.io">
-      <papertitle>3D Pose Estimation for Driver Monitoring - 2</papertitle></a><br>
-      Victoria Brami,  <strong>Patrick Pérez</strong>, Renaud Marlet and Souhaiel Khalfaoui.<br>
-      <em>Valeo AI research project</em>, April-September 2022 <strong>(Oral)</strong> <br>
-      <p></p>
-      <p align=justify> 
-      </p>
-      <p>Each year, almost 20 000 people die in Europe's roads in car accidents. Driver's distraction account for 20% of them. We propose to investigate the best 3D Driver Realtime Pose Estimation for action recognition purpose and understand car passengers needs. This is an opportunity for the automotive industry since driver and interior monitoring systems
-      (DMS and IMS), which require the detailed understanding of a car’s passengers typically with a single camera, are gaining more importance every day. Systems that detect driver’s drowsiness or distraction are already deployed in numerous vehicles, and will continue to expand as new
-      laws make them mandatory.</p>
-    </td>
-  </tr>
   <tr onmouseout="ffcc_stop()" onmouseover="ffcc_start()" >
     <td width="45%">
       <img src="../images/vp11_3_test_visual_single.gif" />
@@ -90,6 +116,12 @@ Selected Projects
       laws make them mandatory.</p>
     </td>
   </tr>
+  </table>
+   <p> </p>
+  <p> </p>
+  <date_title>2021</date_title>
+  <hr style="width:120%;text-align:left;margin-left:0">
+  <table width="140%" align="justify" border="0" cellspacing="0" cellpadding="20">
   <tr onmouseout="ffcc_stop()" onmouseover="ffcc_start()" >
     <td width="45%">
       <img src="../images/speech_evaluation_pipeline.JPG" />
@@ -97,36 +129,6 @@ Selected Projects
     <td valign="top" width="55%">
       <p><a href="https://victoria-brami.github.io">
       <papertitle>Comparing Speech Models to Human Perception</papertitle></a><br>
-      Victoria Brami,  <strong>Juliette Millet</strong>, Ewan Dunbar and Emmanuel Dupoux<br>
-      <em>CoML research project</em>, March-July 2021 <strong>(Oral)</strong> <br>
-      <p></p>
-      <p align=justify> 
-      </p>
-      <p>What happens in the brain when humans perceive speech? lay the ground for a new and expansive field of research aimed at reproducing human speech perception behaviour, by developing easy-to-use reference data and evaluation tools. In short, just as the past half-century has developed and tested thousands of speech perception experiments on human listeners, we develop a set of "speech perception experiments for machines," in order to find and close the gap between human and machine.</p>
-    </td>
-    </tr>
-    <tr onmouseout="ffcc_stop()" onmouseover="ffcc_start()" >
-    <td width="45%">
-      <img src="speech_evaluation_pipeline.JPG" />
-    </td>
-    <td valign="top" width="55%">
-      <p><a href="https://victoria-brami.github.io">
-      <papertitle>Comparing Speech Models to Human Perception</papertitle></a><br>
-      Victoria Brami,  <strong>Juliette Millet</strong>, Ewan Dunbar and Emmanuel Dupoux<br>
-      <em>CoML research project</em>, March-July 2021 <strong>(Oral)</strong> <br>
-      <p></p>
-      <p align=justify> 
-      </p>
-      <p>What happens in the brain when humans perceive speech? lay the ground for a new and expansive field of research aimed at reproducing human speech perception behaviour, by developing easy-to-use reference data and evaluation tools. In short, just as the past half-century has developed and tested thousands of speech perception experiments on human listeners, we develop a set of "speech perception experiments for machines," in order to find and close the gap between human and machine.</p>
-    </td>
-    </tr>
-    <tr onmouseout="ffcc_stop()" onmouseover="ffcc_start()" >
-    <td width="45%">
-      <img src="./images/speech_evaluation_pipeline.JPG" />
-    </td>
-    <td valign="top" width="55%">
-      <p><a href="https://victoria-brami.github.io">
-      <papertitle>Comparing Speech Models to Human Perception - 3</papertitle></a><br>
       Victoria Brami,  <strong>Juliette Millet</strong>, Ewan Dunbar and Emmanuel Dupoux<br>
       <em>CoML research project</em>, March-July 2021 <strong>(Oral)</strong> <br>
       <p></p>
