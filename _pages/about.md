@@ -92,11 +92,41 @@ Selected Projects
   </tr>
   <tr onmouseout="ffcc_stop()" onmouseover="ffcc_start()" >
     <td width="45%">
-      <img src="./speech_evaluation_pipeline.JPG" />
+      <img src="../speech_evaluation_pipeline.JPG" />
     </td>
     <td valign="top" width="55%">
       <p><a href="https://victoria-brami.github.io">
       <papertitle>Comparing Speech Models to Human Perception</papertitle></a><br>
+      Victoria Brami,  <strong>Juliette Millet</strong>, Ewan Dunbar and Emmanuel Dupoux<br>
+      <em>CoML research project</em>, March-July 2021 <strong>(Oral)</strong> <br>
+      <p></p>
+      <p align=justify> 
+      </p>
+      <p>What happens in the brain when humans perceive speech? lay the ground for a new and expansive field of research aimed at reproducing human speech perception behaviour, by developing easy-to-use reference data and evaluation tools. In short, just as the past half-century has developed and tested thousands of speech perception experiments on human listeners, we develop a set of "speech perception experiments for machines," in order to find and close the gap between human and machine.</p>
+    </td>
+    </tr>
+    <tr onmouseout="ffcc_stop()" onmouseover="ffcc_start()" >
+    <td width="45%">
+      <img src="speech_evaluation_pipeline.JPG" />
+    </td>
+    <td valign="top" width="55%">
+      <p><a href="https://victoria-brami.github.io">
+      <papertitle>Comparing Speech Models to Human Perception</papertitle></a><br>
+      Victoria Brami,  <strong>Juliette Millet</strong>, Ewan Dunbar and Emmanuel Dupoux<br>
+      <em>CoML research project</em>, March-July 2021 <strong>(Oral)</strong> <br>
+      <p></p>
+      <p align=justify> 
+      </p>
+      <p>What happens in the brain when humans perceive speech? lay the ground for a new and expansive field of research aimed at reproducing human speech perception behaviour, by developing easy-to-use reference data and evaluation tools. In short, just as the past half-century has developed and tested thousands of speech perception experiments on human listeners, we develop a set of "speech perception experiments for machines," in order to find and close the gap between human and machine.</p>
+    </td>
+    </tr>
+    <tr onmouseout="ffcc_stop()" onmouseover="ffcc_start()" >
+    <td width="45%">
+      <img src="./speech_evaluation_pipeline.JPG" />
+    </td>
+    <td valign="top" width="55%">
+      <p><a href="https://victoria-brami.github.io">
+      <papertitle>Comparing Speech Models to Human Perception - 3</papertitle></a><br>
       Victoria Brami,  <strong>Juliette Millet</strong>, Ewan Dunbar and Emmanuel Dupoux<br>
       <em>CoML research project</em>, March-July 2021 <strong>(Oral)</strong> <br>
       <p></p>
