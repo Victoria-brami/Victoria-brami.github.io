@@ -120,8 +120,6 @@ span.highlight {
     </td>
   </tr>
   </table>
-  <p></p>
-  <p></p>
   <date_title>2021</date_title>
   <hr style="width:80%;text-align:left;margin-left:0">
   <table width="100%" align="justify" border="0" cellspacing="0" cellpadding="20">
