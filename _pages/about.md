@@ -119,9 +119,6 @@ span.highlight {
       laws make them mandatory.</p>
     </td>
   </tr>
-  </table>
-  <date_title>2021</date_title>
-  <hr style="width:80%;text-align:left;margin-left:0">
   <table width="100%" align="justify" border="0" cellspacing="0" cellpadding="20">
   <tr onmouseout="ffcc_stop()" onmouseover="ffcc_start()" >
     <td width="45%">
