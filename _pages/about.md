@@ -58,7 +58,7 @@ Selected Projects
   </tr>
   <tr onmouseout="ffcc_stop()" onmouseover="ffcc_start()" >
     <td width="45%">
-      <img src="./project_images/vp11_3_test_visual_single.gif" />
+      <img src="./images/vp11_3_test_visual_single.gif" />
     </td>
     <td valign="top" width="55%">
       <p><a href="https://victoria-brami.github.io">
@@ -75,7 +75,7 @@ Selected Projects
   </tr>
   <tr onmouseout="ffcc_stop()" onmouseover="ffcc_start()" >
     <td width="45%">
-      <img src="../project_images/vp11_3_test_visual_single.gif" />
+      <img src="../images/vp11_3_test_visual_single.gif" />
     </td>
     <td valign="top" width="55%">
       <p><a href="https://victoria-brami.github.io">
@@ -92,7 +92,7 @@ Selected Projects
   </tr>
   <tr onmouseout="ffcc_stop()" onmouseover="ffcc_start()" >
     <td width="45%">
-      <img src="../speech_evaluation_pipeline.JPG" />
+      <img src="../images/speech_evaluation_pipeline.JPG" />
     </td>
     <td valign="top" width="55%">
       <p><a href="https://victoria-brami.github.io">
@@ -122,7 +122,7 @@ Selected Projects
     </tr>
     <tr onmouseout="ffcc_stop()" onmouseover="ffcc_start()" >
     <td width="45%">
-      <img src="./speech_evaluation_pipeline.JPG" />
+      <img src="./images/speech_evaluation_pipeline.JPG" />
     </td>
     <td valign="top" width="55%">
       <p><a href="https://victoria-brami.github.io">
