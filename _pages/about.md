@@ -39,16 +39,12 @@ Selected Projects
 ======
 Here are some examples of the projects I have carried out, don't hesitate to click [here](http://victoria-brami.github.io/hobbies/) for more!
 There are more to come of course ;)
-<html>
+
 <head>
 <style>
 table, th, td {
   border: 0px solid black;
   border-collapse: collapse;
-}
-body,td,th,tr,p,a {
-    font-family: 'Lato', Verdana, Helvetica, sans-serif;
-    font-size: 14px
 }
 date_title {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
@@ -121,4 +117,3 @@ span.highlight {
   </tr>
   </table>
 </body>
-</html>
