@@ -33,6 +33,8 @@ Here is a list of the different courses I followed during the master:
 9. Audio Signal Processing (E. Bacry).
 10. Computational Optimal Transport (G.Peyré).
 
+
+
 Selected Projects
 ======
 Here are some examples of the projects I have carried out, don't hesitate to click [here](http://victoria-brami.github.io/hobbies/) for more!
@@ -94,9 +96,10 @@ span.highlight {
     }
 </style>
 </head>
+
 <body>
 <date_title>2022</date_title>
-  <hr style="width:120%;text-align:left;margin-left:0">
+  <hr style="width:80%;text-align:left;margin-left:0">
   <table width="140%" align="justify" border="0" cellspacing="0" cellpadding="20">
 
   <tr onmouseout="ffcc_stop()" onmouseover="ffcc_start()" >
@@ -117,10 +120,10 @@ span.highlight {
     </td>
   </tr>
   </table>
-   <p> </p>
-  <p> </p>
+  <p></p>
+  <p></p>
   <date_title>2021</date_title>
-  <hr style="width:120%;text-align:left;margin-left:0">
+  <hr style="width:80%;text-align:left;margin-left:0">
   <table width="140%" align="justify" border="0" cellspacing="0" cellpadding="20">
   <tr onmouseout="ffcc_stop()" onmouseover="ffcc_start()" >
     <td width="45%">
