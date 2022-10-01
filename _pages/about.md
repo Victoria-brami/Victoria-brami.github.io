@@ -107,7 +107,7 @@ span.highlight {
       <img src="../images/vp11_3_test_visual_single.gif" />
     </td>
     <td valign="top" width="55%">
-      <p><a href="https://victoria-brami.github.io">
+    <p><a href="https://victoria-brami.github.io">
       <papertitle>3D Pose Estimation for Driver Monitoring</papertitle></a><br>
       Victoria Brami,  <strong>Patrick Pérez</strong>, Renaud Marlet and Souhaiel Khalfaoui.<br>
       <em>Valeo AI research project</em>, April-September 2022 <strong>(Oral)</strong> <br>
