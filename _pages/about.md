@@ -40,7 +40,7 @@ Selected Projects
 Here are some examples of the projects I have carried out, don't hesitate to click [here](http://victoria-brami.github.io/hobbies/) for more!
 There are more to come of course ;)
 
-{% for year in site.data.papers %}
+{% for year in site.data.projects %}
 ### {{year[0]}}
 --------------
 {% for paper in year[1] %}
