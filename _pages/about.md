@@ -1,4 +1,4 @@
-<!-- ---
+---
 permalink: /
 title: " "
 excerpt: "About me"
@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
---- -->
+--- 
 
 Welcome ! I am a Student in Machine Learning, just graduated from the ENS (Ecole Normale Supérieure) Paris-Saclay and Ecole des Ponts ParisTech with an MSc. in Applied Mathematics, Deep Learning and Computer Vision (**Master MVA**). 
 
