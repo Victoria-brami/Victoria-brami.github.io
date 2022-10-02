@@ -186,6 +186,8 @@ span.highlight {
         location.href = "https://github.com/victoria-brami/pose_estimation_benchmark.git";
     };
 </script>
+<p align=justify> 
+</p>
 <date_title>2021</date_title>
   <hr style="width:100%;text-align:left;margin-left:0">
   <div class="list-work">
