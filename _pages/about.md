@@ -138,8 +138,8 @@ span.highlight {
   transition: transform 0.35s, -webkit-transform 0.35s;
   object-fit: contain;
   background-color: white;
-  width: 200px;
-  height: 150px;
+  width: 300px;
+  height: 225px;
   margin: 10px;
   vertical-align: middle;
   float: left;
@@ -184,7 +184,6 @@ span.highlight {
         location.href = "https://github.com/victoria-brami/pose_estimation_benchmark.git";
     };
     </script>
-</div>
 <date_title>2021</date_title>
   <hr style="width:100%;text-align:left;margin-left:0">
   <div class="list-work">
@@ -204,21 +203,21 @@ span.highlight {
   <buttons id="toDemoButton" class="float-left submit-button" title="What happens in the brain when humans perceive speech? We lay the ground for a new and expansive field of research aimed at reproducing human speech perception behaviour, by developing easy-to-use reference data and evaluation tools. In short, just as the past half-century has developed and tested thousands of speech perception experiments on human listeners, we develop a set of 'speech perception experiments for machines,' in order to find and close the gap between human and machine.">Abstract</buttons>
   </div>
   <div class="buttons buttonsRed1">
-<buttons id="toPdfButton" class="float-left submit-button" >PDF</buttons>
-</div>
-<script type="text/javascript">
-    document.getElementById("toPdfButton").onclick = function () {
-        location.href = "https://victoria-brami.github.io";
-    };
-    </script>
-<div class="buttons buttonsGreen1">
-<buttons id="toCodeButton" class="float-left submit-button" >Code</buttons>
-</div>
-<script type="text/javascript">
-    document.getElementById("toCodeButton").onclick = function () {
-        location.href = "https://github.com/victoria-brami/pose_estimation_benchmark.git";
-    };
-</script>
+  <buttons id="toPdfButton" class="float-left submit-button" >PDF</buttons>
+  </div>
+  <script type="text/javascript">
+      document.getElementById("toPdfButton").onclick = function () {
+          location.href = "https://victoria-brami.github.io";
+      };
+  </script>
+  <div class="buttons buttonsGreen1">
+  <buttons id="toCodeButton" class="float-left submit-button" >Code</buttons>
+  </div>
+  <script type="text/javascript">
+      document.getElementById("toCodeButton").onclick = function () {
+          location.href = "https://github.com/victoria-brami/pose_estimation_benchmark.git";
+      };
+  </script>
 <!-- <date_title>2023</date_title>
   <hr style="width:100%;text-align:left;margin-left:0">
 <div class="list-work">
