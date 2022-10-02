@@ -23,6 +23,17 @@
     blog: #https://ai.facebook.com/blog/generating-chit-chat-including-laughs-yawns-ums-and-other-nonverbal-cues-from-raw-audio/
     code: https://github.com/victoria-brami/pose_estimation_benchmark.git
     demo: #https://speechbot.github.io/dgslm/
+  - title: >
+      CANINE : Charracter-Level Language Modelling
+    where: 
+    link: https://victoria-brami.github.io
+    authors: >
+      Victoria Brami*, Maxime Poli*.<br>
+    img: #/images/vp11_3_test_visual_single.gif
+    abstract: >
+    blog: #https://ai.facebook.com/blog/generating-chit-chat-including-laughs-yawns-ums-and-other-nonverbal-cues-from-raw-audio/
+    code: https://github.com/mxmpl/canine.git
+    demo: 
  
 2021:
   - title: >
