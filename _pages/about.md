@@ -40,7 +40,7 @@ Selected Projects
 Here are some examples of the projects I have carried out, don't hesitate to click [here](http://victoria-brami.github.io/hobbies/) for more!
 There are more to come of course ;)
 
-<html>
+
 <head>
 <style>
 .buttons {
@@ -127,7 +127,7 @@ span.highlight {
 </head>
 <body>
 <date_title>2022</date_title>
-  <hr style="width:100%;text-align:left;margin-left:0"></hr>
+  <hr style="width:100%;text-align:left;margin-left:0">
   <table width="100%" align="justify" border="0" cellspacing="0" cellpadding="20">
   <tr onmouseout="ffcc_stop()" onmouseover="ffcc_start()" >
     <td width="45%">
@@ -167,13 +167,10 @@ span.highlight {
       (DMS and IMS), which require the detailed understanding of a car’s passengers typically with a single camera, are gaining more importance every day. Systems that detect driver’s drowsiness or distraction are already deployed in numerous vehicles, and will continue to expand as new
       laws make them mandatory.">Demo</buttons>
 </div>
-</tr>
-</td>
-</table>
 <p></p>
 <p></p>
 <date_title>2021</date_title>
-  <hr style="width:100%;text-align:left;margin-left:0"></hr>
+  <hr style="width:100%;text-align:left;margin-left:0">
   <table width="100%" align="justify" border="0" cellspacing="0" cellpadding="20">
   <tr onmouseout="ffcc_stop()" onmouseover="ffcc_start()" >
     <td width="45%">
@@ -207,6 +204,5 @@ span.highlight {
 <div class="buttons buttonsBlue1">
 <buttons id="toDemoButton" class="float-left submit-button" title="What happens in the brain when humans perceive speech? We lay the ground for a new and expansive field of research aimed at reproducing human speech perception behaviour, by developing easy-to-use reference data and evaluation tools. In short, just as the past half-century has developed and tested thousands of speech perception experiments on human listeners, we develop a set of 'speech perception experiments for machines,' in order to find and close the gap between human and machine.">Abstract</buttons>
 </div>
-</body>
-</html>
+
 
