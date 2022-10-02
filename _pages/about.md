@@ -169,14 +169,6 @@ span.highlight {
 <div class="buttons buttonsBlue1">
 <buttons id="toDemoButton" class="float-left submit-button" title="Bla bla bl  test">Demo</buttons>
 </div>
-<!-- <script type="text/javascript">
-    document.getElementById("toDemoButton").onclick = function () {
-        location.href = "https://victoria-brami.github.io";
-    };
-    </script> -->
-    </td>
-  </tr>
-  </table>
 <date_title>2021</date_title>
   <hr style="width:80%;text-align:left;margin-left:0">
   <table width="100%" align="justify" border="0" cellspacing="0" cellpadding="20">
