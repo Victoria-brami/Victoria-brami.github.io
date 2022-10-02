@@ -62,7 +62,7 @@ There are more to come of course ;)
   border: none;
   color: white;
   width: 3.7em;
-  padding: 0 1em;
+  padding: 0 0em;
   height: 1.5em;
   text-align: center;
   text-decoration: none;
