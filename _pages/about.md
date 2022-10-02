@@ -81,7 +81,8 @@ table, th, td {
 }
 date_title {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
-    font-size: 22px
+    font-size: 22px;
+    text-align: left;
 }
 strong {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
@@ -94,7 +95,7 @@ heading {
 papertitle {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
     font-ize: 18px;
-    font-weight: 700
+    font-weight: 700;
 }
 name {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
