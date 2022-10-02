@@ -123,9 +123,46 @@ name {
 span.highlight {
         background-color: #ffffd0;
     }
+/* Publications post css */
+
+.list-work{
+  width: 100%;
+}
+
+.list-work img {
+  -webkit-transition: -webkit-transform 0.35s;
+  transition: -webkit-transform 0.35s;
+  -o-transition: transform 0.35s;
+  vertical-align: middle;
+  transition: transform 0.35s;
+  transition: transform 0.35s, -webkit-transform 0.35s;
+  object-fit: contain;
+  background-color: white;
+  width: 200px;
+  height: 150px;
+  margin: 10px;
+  vertical-align: middle;
+  float: left;
+}
+
+.list-work img:hover {
+  -webkit-transform: scale3d(0.9, 0.9, 1);
+          transform: scale3d(0.9, 0.9, 1);
+}
 </style>
 </head>
+
+
 <body>
+<h1><a id="2024">Publications Test</a></h1>
+<div class="list-work">
+      <a href="">
+        <img src="../images/vp11_3_test_visual_single.gif"> <!-- Image is mandatory for publications -->
+      </a>
+      <span>
+      <div><big><b>Domain Bridge for Unpaired Image-to-Image Translation and Unsupervised Domain Adaptation</b></big></div>
+      <div><i><b>Pizzati, F.</b>, de Charette, R., Zaccaria, M., Cerri, P.</i></div>
+      <div><i>WACV, <b>2020</b></i></div>
 <date_title>2022</date_title>
   <hr style="width:100%;text-align:left;margin-left:0">
   <table width="100%" align="justify" border="0" cellspacing="0" cellpadding="20">

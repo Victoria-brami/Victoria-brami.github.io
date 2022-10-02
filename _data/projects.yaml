@@ -5,13 +5,13 @@
   #   authors: >
   #   img: 
   #   abstract: >
-  #   blog: 
+  #   report: 
   #   code: 
 # -------------------------------------------
 2022:
   - title: >
       3D Pose Estimation fro Driver Monitoring
-    where: 
+    where: <em>Valeo AI research project</em>, April-September 2022 <strong>(Oral)</strong> 
     link: https://victoria-brami.github.io
     authors: >
       Victoria Brami,  <strong>Patrick Pérez</strong>, Renaud Marlet and Souhaiel Khalfaoui.<br>
@@ -20,31 +20,70 @@
       Each year, almost 20 000 people die in Europe's roads in car accidents. Driver's distraction account for 20% of them. We propose to investigate the best 3D Driver Realtime Pose Estimation for action recognition purpose and understand car passengers needs. This is an opportunity for the automotive industry since driver and interior monitoring systems
       (DMS and IMS), which require the detailed understanding of cars’ passengers typically with a single camera, are gaining more importance every day. Systems that detect driver’s drowsiness or distraction are already deployed in numerous vehicles, and will continue to expand as new
       laws make them mandatory.
-    blog: #https://ai.facebook.com/blog/generating-chit-chat-including-laughs-yawns-ums-and-other-nonverbal-cues-from-raw-audio/
+    report: #https://ai.facebook.com/report/generating-chit-chat-including-laughs-yawns-ums-and-other-nonverbal-cues-from-raw-audio/
     code: https://github.com/victoria-brami/pose_estimation_benchmark.git
     demo: #https://speechbot.github.io/dgslm/
+    slides:
   - title: >
-      CANINE : Charracter-Level Language Modelling
+      CANINE : Character-Level Language Modeling
     where: 
+    link: https://victoria-brami.github.io
+    authors: >
+      <br>Victoria Brami*, Maxime Poli*.</br>
+    img: #/images/vp11_3_test_visual_single.gif
+    abstract: >
+    report: #https://ai.facebook.com/report/generating-chit-chat-including-laughs-yawns-ums-and-other-nonverbal-cues-from-raw-audio/
+    code: https://github.com/mxmpl/canine.git
+    demo: 
+    slides:
+  - title: >
+      CANINE : Charracter-Level Language Modeling
+    where: <em>MSc research project</em>, March - April 2022 <strong>Supervised by E. Dupoux and B. Sagot</strong> 
     link: https://victoria-brami.github.io
     authors: >
       Victoria Brami*, Maxime Poli*.<br>
     img: #/images/vp11_3_test_visual_single.gif
     abstract: >
-    blog: #https://ai.facebook.com/blog/generating-chit-chat-including-laughs-yawns-ums-and-other-nonverbal-cues-from-raw-audio/
+    report: #https://ai.facebook.com/report/generating-chit-chat-including-laughs-yawns-ums-and-other-nonverbal-cues-from-raw-audio/
+    code: https://github.com/mxmpl/canine.git
+    demo:
+    slides: 
+  - title: >
+      Action-Conditioned 3D Human Generation
+    where: <em>MSc. research project</em>, December 2021 - February 2022 <strong>Supervised by G. Varol and Mathis Petrovich</strong> 
+    link: https://victoria-brami.github.io
+    authors: >
+      Victoria Brami.<br>
+    img:
+    abstract: >
+    report: #https://ai.facebook.com/report/generating-chit-chat-including-laughs-yawns-ums-and-other-nonverbal-cues-from-raw-audio/
     code: https://github.com/mxmpl/canine.git
     demo: 
- 
+    slides:
 2021:
   - title: >
       Comparing Speech Models to Human Perception
-    where: 
+    where: <em>CoML research project</em>, March-July 2022 <strong>(Oral)</strong> 
     link: https://victoria-brami.github.io
     authors: >
       <br>Victoria Brami,  <strong>Juliette Millet</strong>, Ewan Dunbar and Emmanuel Dupoux</br>
     img: /images/speech_evaluation_pipeline.JPG
     abstract: >
       What happens in the brain when humans perceive speech? We lay the ground for a new and expansive field of research aimed at reproducing human speech perception behaviour, by developing easy-to-use reference data and evaluation tools. In short, just as the past half-century has developed and tested thousands of speech perception experiments on human listeners, we develop a set of "speech perception experiments for machines," in order to find and close the gap between human and machine.
-    blog: #https://ai.facebook.com/blog/generating-chit-chat-including-laughs-yawns-ums-and-other-nonverbal-cues-from-raw-audio/
+    report: #https://ai.facebook.com/report/generating-chit-chat-including-laughs-yawns-ums-and-other-nonverbal-cues-from-raw-audio/
     code: #https://github.com/facebookresearch/textlesslib
     demo: 
+    slides:
+  - title: >
+      Electrical Skateboard
+    where: 2021
+    link: 
+    authors: >
+      <br>Victoria Brami</br>
+    img: #/images/speech_evaluation_pipeline.JPG
+    abstract: >
+      I built from scratch my own electrical skateboard.
+    report: #https://ai.facebook.com/report/generating-chit-chat-including-laughs-yawns-ums-and-other-nonverbal-cues-from-raw-audio/
+    code: #https://github.com/facebookresearch/textlesslib
+    demo: 
+    slides:
