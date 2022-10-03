@@ -68,7 +68,7 @@ Competitive Exam Entrance.<br><br>
 * <b>Lycée Alexandre Dumas, High School</b><span style="float:right;"><b align=right>Saint-Cloud, FRANCE</b></span><br>
 <i>Grade: 18 / 20</i><span style="float:right;"><i align=right>2013 - 2016</i></span><br>
   
-Work Experience
+<h1 color=#2be>Work Experience</h1>
 ======
 * <b tyle="text-align:left;">Research Intern - Valeo AI</b><span style="float:right;"><b align=right>Paris, FRANCE</b></span><br>
 <i>Supervised by <strong>Patrick Perez</strong>.</i><span style="float:right;"><i align=right>Apr. 2022– Sept. 2022</i></span><br>
