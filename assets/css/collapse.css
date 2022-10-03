@@ -1,13 +1,13 @@
 .container {
     width:100%;
-    border:1px solid #d3d3d3;
+    border:1px solid #921111;
 }
 .container div {
     width:120%;
 }
 .container .header {
-    background-color:#33CCFF; 
-    /* #d3d3d3; */
+    background-color:#cf33ff; 
+    /* #d3d3d3; #33CCFF*/
     padding: 2px;
     cursor: pointer;
     font-weight: bold;
