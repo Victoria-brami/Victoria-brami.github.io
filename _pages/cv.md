@@ -50,7 +50,8 @@ redirect_from:
 
 Education
 ======
-* <b style="text-align:left;"> MSc. Learning Vision and Applied Mathematics (MVA)</b><span style="float:right;"><b>ENS Paris-Saclay, FRANCE</span></b><br>
+<hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;">
+* <b style="text-align:left;"> MSc. Learning Vision and Applied Mathematics (MVA)</b><span style="float:right;"><b>ENS Paris-Saclay, FRANCE</b></span><br>
 <i style="text-align:left;">Grade: 17.6 / 20</i><span style="float:right;"><i align=right>Sept. 2021 - Sept 2022</i><br>
   * First Semester: 3D Computer Vision, Convex Optimization, Computational Statistics, Numeric Imaging, Object Recognition.
   * Second Semester: Speech and Natural Language Processing, Advanced Deep Learning, Kernel Methods, Deep Reinforcement Learning and Audio Signal Analysis.<br><br>
@@ -70,7 +71,7 @@ Competitive Exam Entrance.<br><br>
   
 <h1 color=#2be>Work Experience</h1>
 ======
-* <b tyle="text-align:left;">Research Intern - Valeo AI</b><span style="float:right;"><b align=right>Paris, FRANCE</b></span><br>
+* <b style="text-align:left;">Research Intern - Valeo AI</b><span style="float:right;"><b align=right>Paris, FRANCE</b></span><br>
 <i>Supervised by <strong>Patrick Perez</strong>.</i><span style="float:right;"><i align=right>Apr. 2022– Sept. 2022</i></span><br>
   * 3D Facial, Hand and Human Pose Body Estimation for Driver Monitoring.
   * Survey and review of the extisting interior monitoring datasets.<br><br>

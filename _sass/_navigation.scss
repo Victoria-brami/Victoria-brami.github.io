@@ -92,7 +92,7 @@
       }
 
       &.current {
-        color: #955; /* #fff; */
+        color: #fff; 
         background: $primary-color;
       }
 
@@ -151,7 +151,7 @@
     }
 
     &.disabled {
-      color: mix(#a34, $gray, 75%); /* mix(#fff, $gray, 75%);*/
+      color: mix(rgb(47, 124, 168), $gray, 75%); /* mix(#fff, $gray, 75%);*/
       pointer-events: none;
       cursor: not-allowed;
     }
