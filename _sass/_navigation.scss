@@ -83,7 +83,7 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#fff, $gray, 25%);
+      color: mix(#f08, $gray, 25%); /* mix(#fff, $gray, 25%); */
       border: 1px solid $light-gray;
       border-radius: 0;
 
@@ -92,12 +92,12 @@
       }
 
       &.current {
-        color: #fff;
+        color: #955; /* #fff; */
         background: $primary-color;
       }
 
       &.disabled {
-        color: mix(#fff, $gray, 75%);
+        color: mix(rgb(250, 233, 0), $gray, 75%); /* mix(#fff, $gray, 75%);*/
         pointer-events: none;
         cursor: not-allowed;
       }
@@ -151,7 +151,7 @@
     }
 
     &.disabled {
-      color: mix(#fff, $gray, 75%);
+      color: mix(#a34, $gray, 75%); /* mix(#fff, $gray, 75%);*/
       pointer-events: none;
       cursor: not-allowed;
     }
@@ -233,7 +233,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: mix(#fff, $primary-color, 50%);
+        background: mix(#67f, $primary-color, 50%); //mix(#fff, $primary-color, 50%);
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
@@ -258,7 +258,7 @@
     padding: 5px;
     border: 1px solid $border-color;
     border-radius: $border-radius;
-    background: #fff;
+    background: rgb(248, 142, 222);//#fff;
     box-shadow: 0 0 10px rgba(#000, 0.25);
 
     a {
@@ -268,7 +268,7 @@
 
       &:hover {
         color: $masthead-link-color-hover;
-        background: mix(#fff, $primary-color, 75%);
+        background: mix(rgb(24, 68, 7), $primary-color, 75%);//mix(#fff, $primary-color, 75%);
       }
     }
 
@@ -337,7 +337,7 @@
     padding-right: 0.5em;
     color: #fff;
     font-weight: bold;
-    background: $primary-color;
+    background: rgb(233, 130, 12); //$primary-color;
     border-radius: $border-radius;
 
     &:hover {
