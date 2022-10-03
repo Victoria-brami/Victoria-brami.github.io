@@ -12,16 +12,12 @@ Welcome ! I am a Student in Machine Learning, just graduated from the ENS (Ecole
 
 Previously I have done various research internships in Computer Vision. The latest one was in Valeo.ai where I was supervised by [Patrick Perez](http://ptrckprz.github.io): my research focused on developping Driver Monitoring Sytems throuch the analysis of the driver with 3D Pose Estimation.
 
-**I am looking for a 4 to 5-6 months research internship in the field of Vision and Language/Speech models. I am open to work in any place, especially in the UK, Kroea, Japan, Northern Europ, Canada and the US**.
-
-Main Research Interests
-======
-
+I am looking for a 4 to 5-6 months research internship in the field of Vision and Language/Speech models. I am open to work in any place, especially in the UK, Korea, Japan, Northern Europ, Canada and the US.</b>
 
 
 Courses at MVA Master
 ======
-Here is a list of the different courses I followed during the master:
+Here is a list of the different courses I followed during the master. You can find more about my academic background in [my resume](https://victoria-brami.github.io/cv/)
 1. Convex Optimization (A. D'Aspremont, [ Inria PARIS, Sierra team](https://www.di.ens.fr/sierra/)).
 2. 3D Computer Vision (P. Monasse and M. Aubry, [Imagine ENPC-LIGM](https://imagine-lab.enpc.fr/)).
 3. Object Recognition and Computer Vision (J. Ponce, C. Schmid, I. Laptev, G. Varöl, J. Sivic [Inria PARIS, Willow team](https://www.di.ens.fr/willow/)).
