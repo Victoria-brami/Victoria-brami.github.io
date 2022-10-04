@@ -130,6 +130,7 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <!-- {% if include.type == "grid" and teaser %} -->
+    <div class="list-work">
       <div class="archive__item-teaser">
         {% if post.img %}
           <img src={{ post.img }} alt="">
@@ -138,9 +139,9 @@
     <!-- {% endif %} -->
         <span>
     <a href="https://victoria-brami.github.io">
-      <h3>{{ title }}</h3></a><br>
+      <h3>{{ title }}</h3></a>
       {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    <a>{{ post.abstract }}</a><br>
+    <p>{{ post.abstract }}</p><br>
       
 
     <div class="buttons buttonsRed1">
