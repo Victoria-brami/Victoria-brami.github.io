@@ -14,7 +14,26 @@ author_profile: true
 
 {% endif %}
 
-{% for post in site.projects reversed %}
-  {% include archive-single-internship.html %}
+<head>
+  <style>
+    date_title {
+      font-family: 'Lato', Verdana, Helvetica, sans-serif;
+      font-size: 22px;
+      text-align: left;
+  }
+  </style>
+</head>
+
+<date_title>2022</date_title>
+    <hr style="width:100%;text-align:left;margin-left:0">
+{% for post in site.projects_2022 reversed %}
+  {% include archive-single-internship-2022.html %}
+ <!-- {% include archive-single-project.html %} -->
+{% endfor %}
+
+<date_title>2021</date_title>
+    <hr style="width:100%;text-align:left;margin-left:0">
+{% for post in site.projects_2021 reversed %}
+  {% include archive-single-internship-2022.html %}
  <!-- {% include archive-single-project.html %} -->
 {% endfor %}

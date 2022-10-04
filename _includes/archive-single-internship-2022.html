@@ -1,0 +1,149 @@
+
+
+
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<head>
+  <style>
+  .buttons {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    width: 3.7em;
+    padding: 0 0em;
+    height: 1.5em;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 4px 10px;
+    color: white;
+  }
+  .buttonsRed1 {cursor: pointer; border-radius: 4px; background-color: #DC143C;}
+  .buttonsGreen1 {border-radius: 4px; background-color: #4CAF50;}
+  .buttonsBlue1 { width: 4.2em; border-radius: 4px; background-color: #008CBA;}
+  table, th, td {
+    border: 0px solid black;
+    border-collapse: collapse;
+  }
+  date_title {
+      font-family: 'Lato', Verdana, Helvetica, sans-serif;
+      font-size: 22px;
+      text-align: left;
+  }
+  strong {
+      font-family: 'Lato', Verdana, Helvetica, sans-serif;
+      font-size: 14px;
+      }
+  heading {
+      font-family: 'Lato', Verdana, Helvetica, sans-serif;
+      font-size: 22px;
+  }
+  papertitle {
+      font-family: 'Lato', Verdana, Helvetica, sans-serif;
+      font-size: 18px;
+      font-weight: bold;
+  }
+  name {
+      font-family: 'Lato', Verdana, Helvetica, sans-serif;
+      font-size: 32px;
+      }
+  .one
+      {
+      width: 160px;
+      height: 160px;
+      position: relative;
+      }
+  .two
+      {
+      width: 160px;
+      height: 160px;
+      position: absolute;
+      transition: opacity .2s ease-in-out;
+      -moz-transition: opacity .2s ease-in-out;
+      -webkit-transition: opacity .2s ease-in-out;
+      }
+  .fade {
+       transition: opacity .2s ease-in-out;
+       -moz-transition: opacity .2s ease-in-out;
+       -webkit-transition: opacity .2s ease-in-out;
+      }
+  span.highlight {
+          background-color: #ffffd0;
+      }
+  /* Publications post css */
+  
+  .list-work{
+    width: 100%;
+  }
+  
+  .list-work img {
+    -webkit-transition: -webkit-transform 0.35s;
+    transition: -webkit-transform 0.35s;
+    -o-transition: transform 0.35s;
+    vertical-align: middle;
+    transition: transform 0.35s;
+    transition: transform 0.35s, -webkit-transform 0.35s;
+    object-fit: contain;
+    background-color: white;
+    width: 300px;
+    height: 225px;
+    margin: 10px;
+    vertical-align: middle;
+    float: left;
+  }
+  
+  .list-work img:hover {
+    -webkit-transform: scale3d(0.9, 0.9, 1);
+            transform: scale3d(0.9, 0.9, 1);
+  }
+  </style>
+  </head>
+  
+  
+  <body>
+
+  <div class="list-work">
+        <a href="">
+          <img src="{{ base_path }}{{ post.img }}"> <!-- Image is mandatory for publications -->
+        </a>
+        <span>
+        <p><a href="https://victoria-brami.github.io">
+        <papertitle>{{ post.title }}</papertitle></a><br>
+        <p>{{ post.authors }}</p><br>
+        <p>{{ post.where }}</p>, "{{ post.period }}"<strong>(Oral).</strong><br>
+        <p align=justify> 
+        </p>
+  <div class="buttons buttonsBlue1">
+  <buttons id="toDemoButton" class="float-left submit-button" title="Each year, almost 20 000 people die in Europe's roads in car accidents. Driver's distraction accounts for 20% of them. We propose to investigate the best 3D Driver Realtime Pose Estimation for action recognition purpose and understand car passengers needs. This is an opportunity for the automotive industry since driver and interior monitoring systems (DMS and IMS), which require the detailed understanding of a car’s passengers typically with a single camera, are gaining more importance every day. Systems that detect driver’s drowsiness or distraction are already deployed in numerous vehicles, and will continue to expand as new laws make them mandatory.">Abstract</buttons>
+  </div>
+  <div class="buttons buttonsRed1">
+  <buttons id="toPdfButton" class="float-left submit-button" >Report</buttons>
+  </div>
+  <script type="text/javascript">
+      document.getElementById("toPdfButton").onclick = function () {
+          location.href = "{{ post.report }}";
+      };
+  </script>
+  <div class="buttons buttonsGreen1">
+  <buttons id="toCodeButton" class="float-left submit-button" >Code</buttons>
+  </div>
+  <script type="text/javascript">
+      document.getElementById("toCodeButton").onclick = function () {
+          location.href = "{{ post.code }}";
+      };
+  </script><br><br><br>
+</body>
