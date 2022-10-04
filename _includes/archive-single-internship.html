@@ -15,23 +15,8 @@
   {% assign title = post.title %}
 {% endif %}
 
-<html>
 <head>
   <style>
-  .buttons {
-    background-color: #04AA6D;
-    border: none;
-    color: white;
-    padding: 20px;
-    width: 5em;
-    height: 3.5em;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 6px 2px;
-    color: white;
-  }
   .buttons {
     background-color: #04AA6D;
     border: none;
@@ -69,8 +54,8 @@
   }
   papertitle {
       font-family: 'Lato', Verdana, Helvetica, sans-serif;
-      font-ize: 18px;
-      font-weight: 700;
+      font-size: 18px;
+      font-weight: bold;
   }
   name {
       font-family: 'Lato', Verdana, Helvetica, sans-serif;
@@ -125,148 +110,41 @@
     -webkit-transform: scale3d(0.9, 0.9, 1);
             transform: scale3d(0.9, 0.9, 1);
   }
-  .image img,
-  .image video {
-    width: 100%;
-    height: 100%;
-    box-sizing: border-box;
-    display: table-cell;
-    overflow: hidden;
-    border-radius: 2px;
-  }
-
-  .adaptive-image {
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-
-  .image-wrap-text {
-    float: left;
-    margin: 5px 40px 25px 0;
-  }
-  .flex-column {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-    align-items: stretch;
-    align-content: stretch;
-    box-sizing: border-box;
-  }
-
-  .flex-row-space-between {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: center;
-    align-content: stretch;
-    box-sizing: border-box;
-  }
-
-  .flex-row {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-    align-items: center;
-    align-content: stretch;
-    box-sizing: border-box;
-  }
-
-  img {
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-  }
-  .text {
-  margin: 10px 0 10px 0;
-  padding: 0;
-  }
-  .image {
-    border-radius: 2px;
-    width: 100%;
-    margin: 15px 0;
-    -webkit-touch-callout: none;
-    -webkit-user-select: none;
-    -khtml-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-    display: flex;
-  }
-  .max-width-400 {
-  max-width: 400px;
-  }
-  .text-justify {
-  text-align: justify;
-  }
   </style>
-</head>
-<body>
-  <div class="flex-row">
-    <div class="flex-item flex-item-stretch flex-column">
-      <img class="image max-width-400" src="../images/celebA_inpainting.gif">
-      <img class="image max-width-400" src="../images/speech_evaluation_pipeline.JPG">
-    </div>
-    <div class="flex-item flex-item-stretch-4 flex-column">
-        <p class="text">{{ post.abstract }}</p>
-    <div class="buttons buttonsRed1">
-          <buttons id="toPdfButton" class="float-left submit-button" >Report</buttons>
-          </div>
-          <script type="text/javascript">
-              document.getElementById("toPdfButton").onclick = function () {
-                  location.href = "{{ base_path }}{{ post.url }}";
-              };
-          </script>
-          <div class="buttons buttonsGreen1">
-          <buttons id="toCodeButton" class="float-left submit-button" >Code</buttons>
-          </div>
-          <script type="text/javascript">
-              document.getElementById("toCodeButton").onclick = function () {
-                  location.href = "{{ post.code }}";
-              };
-          </script>    
-    </div>
-  </div>
+  </head>
   
-
-<div class="{{ include.type | default: "list" }}__item">
-  <!-- <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if include.type == "grid" and teaser %} -->
-    <div class="list-work img" src="https://github.com/victoria-brami/victoria-brami.github.io/blob/master/images/celebA_inpainting.gif">
-        {% if post.img %}
-          <!-- <img src="{{ post.img }}"" alt=""> -->
-          <div class="list-work img" src="../images/celebA_inpainting.gif">
-        {% endif %}
-    <!-- {% endif %} -->
+  
+  <body>
+  <date_title>2022</date_title>
+    <hr style="width:100%;text-align:left;margin-left:0">
+  <div class="list-work">
+        <a href="">
+          <img src="{{ base_path }}{{ post.img }}"> <!-- Image is mandatory for publications -->
+        </a>
         <span>
-    <a href="https://victoria-brami.github.io">
-      <h3>{{ title }}</h3></a>
-      {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    <p align="justify">{{ post.abstract }}</p>
-    <div class="buttons buttonsRed1">
-          <buttons id="toPdfButton" class="float-left submit-button" >Report</buttons>
-          </div>
-          <script type="text/javascript">
-              document.getElementById("toPdfButton").onclick = function () {
-                  location.href = "{{ base_path }}{{ post.url }}";
-              };
-          </script>
-          <div class="buttons buttonsGreen1">
-          <buttons id="toCodeButton" class="float-left submit-button" >Code</buttons>
-          </div>
-          <script type="text/javascript">
-              document.getElementById("toCodeButton").onclick = function () {
-                  location.href = "{{ post.code }}";
-              };
-          </script>
-  <!-- </article> -->
-</div>
+        <p><a href="https://victoria-brami.github.io">
+        <papertitle>{{ post.title }}</papertitle></a><br>
+        <p>{{ post.authors }}</p><br>
+        <p>{{ post.where }}</p>, "{{ post.period }}"<strong>(Oral).</strong><br>
+        <p align=justify> 
+        </p>
+  <div class="buttons buttonsBlue1">
+  <buttons id="toDemoButton" class="float-left submit-button" title="Each year, almost 20 000 people die in Europe's roads in car accidents. Driver's distraction accounts for 20% of them. We propose to investigate the best 3D Driver Realtime Pose Estimation for action recognition purpose and understand car passengers needs. This is an opportunity for the automotive industry since driver and interior monitoring systems (DMS and IMS), which require the detailed understanding of a car’s passengers typically with a single camera, are gaining more importance every day. Systems that detect driver’s drowsiness or distraction are already deployed in numerous vehicles, and will continue to expand as new laws make them mandatory.">Abstract</buttons>
+  </div>
+  <div class="buttons buttonsRed1">
+  <buttons id="toPdfButton" class="float-left submit-button" >Report</buttons>
+  </div>
+  <script type="text/javascript">
+      document.getElementById("toPdfButton").onclick = function () {
+          location.href = "{{ post.report }}";
+      };
+  </script>
+  <div class="buttons buttonsGreen1">
+  <buttons id="toCodeButton" class="float-left submit-button" >Code</buttons>
+  </div>
+  <script type="text/javascript">
+      document.getElementById("toCodeButton").onclick = function () {
+          location.href = "{{ post.code }}";
+      };
+  </script><br><br><br>
 </body>
-</html>
-

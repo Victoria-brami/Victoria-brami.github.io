@@ -31,20 +31,6 @@ There are more to come of course ;)
   background-color: #04AA6D;
   border: none;
   color: white;
-  padding: 20px;
-  width: 5em;
-  height: 3.5em
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 6px 2px;
-  color: white;
-}
-.buttons {
-  background-color: #04AA6D;
-  border: none;
-  color: white;
   width: 3.7em;
   padding: 0 0em;
   height: 1.5em;
@@ -78,9 +64,8 @@ heading {
 }
 papertitle {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
-    font-ize: 18px;
+    font-size: 18px;
     font-weight: bold;
-
 }
 name {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
