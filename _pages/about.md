@@ -12,7 +12,7 @@ Welcome ! I am a Student in Machine Learning, just graduated from the ENS (Ecole
 
 Previously I have done various research internships in Computer Vision. The latest one was in Valeo.ai where I was supervised by [Patrick Perez](http://ptrckprz.github.io): my research focused on developping Driver Monitoring Sytems throuch the analysis of the driver with 3D Pose Estimation.
 
-I am looking for a 4 to 5-6 months research internship in the field of Vision and Language/Speech models. I am open to work in any place, especially in the UK, Korea, Japan, Northern Europ, Canada and the US.</b>
+<b>I am looking for a 4 to 5-6 months research internship in the field of Vision and Language/Speech models. I am open to work in any place, especially in the UK, Korea, Japan, Northern Europ, Canada and the US.</b>
 
 
 
