@@ -79,7 +79,7 @@ heading {
 papertitle {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
     font-ize: 18px;
-    font-weight: 700;
+    font-weight: bold;
 }
 name {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;

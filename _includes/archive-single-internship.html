@@ -128,7 +128,7 @@
 </head>
 
 <div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+  <!-- <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork"> -->
     <!-- {% if include.type == "grid" and teaser %} -->
     <div class="list-work">
       <img src="../images/celebA_inpainting.gif">
@@ -140,7 +140,7 @@
         <span>
     <a href="https://victoria-brami.github.io">
       <h3>{{ title }}</h3></a>
-      {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
+      {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %Y - %B %Y' }}</p>{% endif %}
     <p align="justify">{{ post.abstract }}</p>
     <div class="buttons buttonsRed1">
           <buttons id="toPdfButton" class="float-left submit-button" >Report</buttons>
@@ -158,6 +158,6 @@
                   location.href = "{{ post.code }}";
               };
           </script>
-  </article>
+  <!-- </article> -->
 </div>
 
