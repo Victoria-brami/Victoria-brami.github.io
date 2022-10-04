@@ -138,7 +138,10 @@
     <!-- {% endif %} -->
         <span>
     <a href="https://victoria-brami.github.io">
-      <h3>{{ title }}</h3</a><br>
+      <h3>{{ title }}</h3></a><br>
+      {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
+    <a>{{ post.abstract }}</a><br>
+      
 
     <div class="buttons buttonsRed1">
           <buttons id="toPdfButton" class="float-left submit-button" >Report</buttons>
