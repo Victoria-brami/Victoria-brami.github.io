@@ -125,9 +125,65 @@
     -webkit-transform: scale3d(0.9, 0.9, 1);
             transform: scale3d(0.9, 0.9, 1);
   }
+  
+.flex-column {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: stretch;
+  box-sizing: border-box;
+}
+
+.flex-row-space-between {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  align-content: stretch;
+  box-sizing: border-box;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: stretch;
+  box-sizing: border-box;
+}
   </style>
 </head>
 <body>
+  <div class="flex-row">
+    <div class="flex-item flex-item-stretch flex-column">
+      <img class="image max-width-400" src="./images/celebA_inpainting.gif">
+    </div>
+    <div class="flex-item flex-item-stretch-4 flex-column">
+        <p align="justify">{{ post.abstract }}</p>
+    <div class="buttons buttonsRed1">
+          <buttons id="toPdfButton" class="float-left submit-button" >Report</buttons>
+          </div>
+          <script type="text/javascript">
+              document.getElementById("toPdfButton").onclick = function () {
+                  location.href = "{{ base_path }}{{ post.url }}";
+              };
+          </script>
+          <div class="buttons buttonsGreen1">
+          <buttons id="toCodeButton" class="float-left submit-button" >Code</buttons>
+          </div>
+          <script type="text/javascript">
+              document.getElementById("toCodeButton").onclick = function () {
+                  location.href = "{{ post.code }}";
+              };
+          </script>    
+    </div>
+  </div>
+  
+
 <div class="{{ include.type | default: "list" }}__item">
   <!-- <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %} -->
