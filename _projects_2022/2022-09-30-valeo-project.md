@@ -9,7 +9,7 @@ report: #https://ai.facebook.com/report/generating-chit-chat-including-laughs-ya
 code: https://github.com/victoria-brami/pose_estimation_benchmark.git
 demo: #https://speechbot.github.io/dgslm/
 slides: files/slides/
-collection: projects
+collection: projects_2022
 type: "Projects"
 permalink: /projects/2022-04-25-valeo-project
 #venue: "Testing Institute of America 2014 Annual Conference"
