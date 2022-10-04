@@ -185,8 +185,8 @@ span.highlight {
   </script>
       <p align=justify> 
       </p><br><br>
-<date_title><b>202!</b></date_title>
-  <hr style="width:100%;text-align:left;margin-left:0">
+<date_title><b>2021</b></date_title>
+  <hr style="width:100%;text-align:left;margin-left:0"><br>
   <div class="list-work">
       <a href="">
         <img src="../images/speech_evaluation_pipeline.JPG">

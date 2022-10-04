@@ -1,13 +1,13 @@
 ---
 title: "Inpainting Faces with GANs: an ablation study"
-where: : MSc Project (MVA)
+where: : <em>MSc Project (MVA)</em>
 collection: projects
-type: "Talk"
-permalink: /talks/2022-02-15-inpainting
+type: "Projects"
+permalink: /projects/2022-02-15-inpainting
 venue: 
 authors: Victoria Brami, Clarine Vongpaseut
 code: https://github.com/victoria-brami/Inpainting_project_mva.git
-slides: files/slides/inpainting_project.pdf
+slides: files/slides/Inpainting_project.pdf
 abstract: 
 img: "/images/celebA_inpainting.gif"
 date: 2022-02-15
