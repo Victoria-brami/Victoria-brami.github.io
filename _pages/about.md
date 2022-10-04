@@ -182,11 +182,34 @@ span.highlight {
     document.getElementById("toCodeButton").onclick = function () {
         location.href = "https://github.com/victoria-brami/pose_estimation_benchmark.git";
     };
-</script>
-<p align=justify> 
-</p>
-<p> 
-</p>
+</script><br>
+<div class="list-work">
+      <a href="">
+        <img src="../images/celebA_inpainting.gif"> <!-- Image is mandatory for publications -->
+      </a>
+      <span>
+      <p><a href="https://victoria-brami.github.io">
+      <papertitle>Face Inpainting with GANs: An ablation study</papertitle></a><br>
+      Victoria Brami, Claring Vongpaseut, <i>Supervised by Yann Gousseau</i>.<br>
+      <em>MSc. Research Project</em>, Jan.-Feb. 2022 <strong>(Oral).</strong><br>
+       <div class="buttons buttonsRed1">
+    <buttons id="toPdfButton" class="float-left submit-button" >Report</buttons>
+    </div>
+    <script type="text/javascript">
+        document.getElementById("toPdfButton").onclick = function () {
+            location.href = "https://victoria-brami.github.io";
+        };
+    </script>
+    <div class="buttons buttonsGreen1">
+    <buttons id="toCodeButton" class="float-left submit-button" >Code</buttons>
+    </div>
+    <script type="text/javascript">
+        document.getElementById("toCodeButton").onclick = function () {
+            location.href = "https://github.com/victoria-brami/mva_inpainting_project.git";
+        };
+  </script>
+      <p align=justify> 
+      </p><br><br>
 <date_title>2021</date_title>
   <hr style="width:100%;text-align:left;margin-left:0">
   <div class="list-work">
