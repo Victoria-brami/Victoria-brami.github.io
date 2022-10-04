@@ -182,7 +182,7 @@ span.highlight {
     document.getElementById("toCodeButton").onclick = function () {
         location.href = "https://github.com/victoria-brami/pose_estimation_benchmark.git";
     };
-</script><br>
+</script><br><br><br>
 <div class="list-work">
       <a href="">
         <img src="../images/celebA_inpainting.gif"> <!-- Image is mandatory for publications -->
