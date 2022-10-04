@@ -13,7 +13,7 @@ collection: projects
 type: "Projects"
 permalink: /projects/2022-04-25-valeo-project
 #venue: "Testing Institute of America 2014 Annual Conference"
-date: 2022-04 2022-09
+date: 2022-09
 location: Paris, FRANCE"
 ---
 
