@@ -21,8 +21,9 @@ You can also file in details the courses I followed during my master [here](http
 
 Selected Projects
 ======
-Here are some examples of the projects I have carried out, don't hesitate to click [here](http://victoria-brami.github.io/hobbies/) for more!
-There are more to come of course ;)
+<hr style="width:100%;text-align:left;margin-left:0">
+Here are some examples of the projects I have carried out, do not hesitate to click [on this link](https://victoria-brami.github.io/hobbies/) for more!
+There are more to come of course ;)<>
 
 
 <head>
@@ -125,7 +126,7 @@ span.highlight {
 
 
 <body>
-<date_title>2022</date_title>
+<date_title><b>2022</b></date_title>
   <hr style="width:100%;text-align:left;margin-left:0">
 <div class="list-work">
       <a href="">
@@ -184,7 +185,7 @@ span.highlight {
   </script>
       <p align=justify> 
       </p><br><br>
-<date_title>2021</date_title>
+<date_title><b>202!</b></date_title>
   <hr style="width:100%;text-align:left;margin-left:0">
   <div class="list-work">
       <a href="">

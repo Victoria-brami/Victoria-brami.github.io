@@ -18,4 +18,4 @@ period: April 2022 - September 2022
 location: "Paris, FRANCE"
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+Each year, almost 20 000 people die in Europe's roads in car accidents. Driver's distraction accounts for 20% of them. We propose to investigate the best 3D Driver Realtime Pose Estimation for action recognition purpose and understand car passengers needs. This is an opportunity for the automotive industry since driver and interior monitoring systems (DMS and IMS), which require the detailed understanding of cars’ passengers typically with a single camera, are gaining more importance every day. Systems that detect driver’s drowsiness or distraction are already deployed in numerous vehicles, and will continue to expand as new laws make them mandatory.
