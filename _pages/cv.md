@@ -48,8 +48,8 @@ redirect_from:
 }
 </style>
 
-Education
-======
+<h1 style="color:#069;">Education</h1>
+
 <hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;">
 * <b style="text-align:left;"> MSc. Learning Vision and Applied Mathematics (MVA)</b><span style="float:right;"><b>ENS Paris-Saclay, FRANCE</b></span><br>
 <i style="text-align:left;">Grade: 17.6 / 20</i><span style="float:right;"><i align=right>Sept. 2021 - Sept 2022</i><br>
@@ -67,10 +67,10 @@ Education
 Competitive Exam Entrance.<br><br>
 
 * <b>Lycée Alexandre Dumas, High School</b><span style="float:right;"><b align=right>Saint-Cloud, FRANCE</b></span><br>
-<i>Grade: 18 / 20</i><span style="float:right;"><i align=right>2013 - 2016</i></span><br>
+<i>Grade: 18 / 20</i><span style="float:right;"><i align=right>2013 - 2016</i></span><br><br><br>
   
-<h1 color=#2be>Work Experience</h1>
-======
+<h1 style="color:#069;">Work Experience</h1>
+
 * <b style="text-align:left;">Research Intern - Valeo AI</b><span style="float:right;"><b align=right>Paris, FRANCE</b></span><br>
 <i>Supervised by <strong>Patrick Perez</strong>.</i><span style="float:right;"><i align=right>Apr. 2022– Sept. 2022</i></span><br>
   * 3D Facial, Hand and Human Pose Body Estimation for Driver Monitoring.
@@ -87,12 +87,12 @@ Competitive Exam Entrance.<br><br>
 <i style="text-align:left;">Supervised by <strong>Edwin Azzam (CTO)</strong>.</i><span style="float:right;"><i align=right>Apr. 2022– Sept. 2022</i></span><br>
   * 3D skeleton inference on images from incomplete 3D data, leveraging full body context (PyTorch, OpenCV).<br><br>
 
-* <b style="text-align:left;">Physics Teaching Assistant</b><span style="float:right;"><b>Neuilly-Sur-Seine, FRANCE</b><br>
+* <b style="text-align:left;">Physics Teaching Assistant</b><span style="float:right;"><b>Neuilly-Sur-Seine, FRANCE</b><br><br><br>
   
 
 
-Academic Projects
-======
+<h1 style="color:#069;">Academic Projects</h1>
+
 * <b style="text-align:left;">Study of Character-Level Language Model</b><span style="float:right;"><b>Paris-Saclay, FRANCE</b></span><br>
 <i style="text-align:left;">Supervised by <strong>Benoit Sagot and Emmanuel Dupoux</strong>.</i><span style="float:right;"><i align=right>Mar. 2022– Apr. 2022</i></span><br>
   * Compared Character-based LM to common SOTA word-based LM
@@ -107,24 +107,7 @@ Academic Projects
 * <b style="text-align:left;">Image Completion using GANs</b><span style="float:right;"><b>Paris-Saclay, FRANCE</b></span><br>
 <i style="text-align:left;">Supervised by <strong>Benoit Sagot and Emmanuel Dupoux</strong>.</i><span style="float:right;"><i align=right>Mar. 2022– Apr. 2022</i></span><br>
 
-Personal Projects
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-internship.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<h1 style="color:#069;">Computing Skills</h1>
+<h1 style="color:#069;">Languages</h1>
+<h1 style="color:#069;">Personal Interests</h1>
+<h1 style="color:#069;">Community and Volunteering Experience</h1>
