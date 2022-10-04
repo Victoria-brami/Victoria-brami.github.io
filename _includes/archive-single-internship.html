@@ -129,13 +129,13 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if include.type == "grid" and teaser %}
+    <!-- {% if include.type == "grid" and teaser %} -->
       <div class="archive__item-teaser">
         {% if post.img %}
-          <img src="{{ post.img }}" alt="">
+          <img src={{ post.img }} alt="">
         {% endif %}
       </div>
-    {% endif %}
+    <!-- {% endif %} -->
         <span>
     <a href="https://victoria-brami.github.io">
       <h3>{{ title }}</h3</a><br>
