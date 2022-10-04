@@ -125,7 +125,26 @@
     -webkit-transform: scale3d(0.9, 0.9, 1);
             transform: scale3d(0.9, 0.9, 1);
   }
-  
+  .image img,
+  .image video {
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    display: table-cell;
+    overflow: hidden;
+    border-radius: 2px;
+  }
+
+  .adaptive-image {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .image-wrap-text {
+    float: left;
+    margin: 5px 40px 25px 0;
+  }
   .flex-column {
     display: flex;
     flex-direction: column;
@@ -183,6 +202,9 @@
   .max-width-400 {
   max-width: 400px;
   }
+  .text-justify {
+  text-align: justify;
+  }
   </style>
 </head>
 <body>
@@ -192,7 +214,7 @@
       <img class="image max-width-400" src="../images/speech_evaluation_pipeline.JPG">
     </div>
     <div class="flex-item flex-item-stretch-4 flex-column">
-        <p align="justify">{{ post.abstract }}</p>
+        <p class="text">{{ post.abstract }}</p>
     <div class="buttons buttonsRed1">
           <buttons id="toPdfButton" class="float-left submit-button" >Report</buttons>
           </div>
