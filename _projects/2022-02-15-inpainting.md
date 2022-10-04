@@ -8,7 +8,7 @@ code: https://github.com/victoria-brami/Inpainting_project_mva.git
 slides:
 abstract: 
 img: "../images/celebA_inpainting.gif"
-date: 2021-12 2022-02
+date: 2022-02-15
 location: "Paris, FRANCE"
 ---
 
