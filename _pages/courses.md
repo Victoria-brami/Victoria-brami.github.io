@@ -1,12 +1,10 @@
 ---
-layout: archive
+layout: single
 title: "Courses at MVA Master"
 permalink: /courses/
 author_profile: true
 ---
 
-Courses at MVA Master
-======
 Here is a list of the different courses I followed during the master. You can find more about my academic background in [my resume](https://victoria-brami.github.io/cv/)
 1. Convex Optimization (A. D'Aspremont, [ Inria PARIS, Sierra team](https://www.di.ens.fr/sierra/)).
 2. 3D Computer Vision (P. Monasse and M. Aubry, [Imagine ENPC-LIGM](https://imagine-lab.enpc.fr/)).

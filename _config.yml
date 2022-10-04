@@ -188,6 +188,9 @@ collections:
   projects: # replaced talks
     output: true
     permalink: /:collection/:path/
+  courses: # replaced talks
+    output: true
+    permalink: /:collection/:path/
   personal_interests:
     output: true
     permalink: /:collection/:path/      
@@ -245,6 +248,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _courses
+  - scope:
+      path: ""
+      type: courses
+    values:
+      layout:single
       author_profile: true
       share: true
 
