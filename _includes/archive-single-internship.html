@@ -130,11 +130,10 @@
 <div class="{{ include.type | default: "list" }}__item">
   <!-- <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %} -->
-    <div class="list-work">
-      <img src="https://github.com/victoria-brami/victoria-brami.github.io/blob/master/images/celebA_inpainting.gif">
+    <div class="list-work img" src="https://github.com/victoria-brami/victoria-brami.github.io/blob/master/images/celebA_inpainting.gif">
         {% if post.img %}
           <!-- <img src="{{ post.img }}"" alt=""> -->
-          <img src="../images/celebA_inpainting.gif">
+          <div class="list-work img" src="../images/celebA_inpainting.gif">
         {% endif %}
     <!-- {% endif %} -->
         <span>

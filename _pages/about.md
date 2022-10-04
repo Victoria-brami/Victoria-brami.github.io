@@ -80,6 +80,7 @@ papertitle {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
     font-ize: 18px;
     font-weight: bold;
+
 }
 name {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
@@ -143,7 +144,7 @@ span.highlight {
   <hr style="width:100%;text-align:left;margin-left:0">
 <div class="list-work">
       <a href="">
-        <div class="list-work img" src="../images/vp11_3_test_visual_single.gif"> <!-- Image is mandatory for publications -->
+        <img src="../images/vp11_3_test_visual_single.gif"> <!-- Image is mandatory for publications -->
       </a>
       <span>
       <p><a href="https://victoria-brami.github.io">
