@@ -1,16 +1,6 @@
 
 
 
----
-title: "Modelling Modelling human perception with speech models"
-collection: talks
-type: "Internship"
-permalink: /talks/2014-03-01-talk-3
-venue: "CoML Team"
-date: 2014-03-01
-location: "Paris, FRANCE"
----
-
 {% include base_path %}
 
 {% if post.header.teaser %}
@@ -27,27 +17,31 @@ location: "Paris, FRANCE"
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <li>
-    {% if include.type == "internship" and teaser %}
+    {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
-          alt="">
-      </div>
-    {% endif %}
-    <h3 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
-    </h3>
-    {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{post.type}} at {{ post.venue }},  {{post.location}}</p>{% endif %}
-    </li>
+        {% if post.img %}
+          <img src="{{ base_path }}{{ post.img }}" alt="">
+        {% endif %}
+        <span>
+    <a href="https://victoria-brami.github.io">
+      <h3>{{ title }}</h3</a><br>
+
+    <div class="buttons buttonsRed1">
+          <buttons id="toPdfButton" class="float-left submit-button" >Report</buttons>
+          </div>
+          <script type="text/javascript">
+              document.getElementById("toPdfButton").onclick = function () {
+                  location.href = "{{ base_path }}{{ post.url }}";
+              };
+          </script>
+          <div class="buttons buttonsGreen1">
+          <buttons id="toCodeButton" class="float-left submit-button" >Code</buttons>
+          </div>
+          <script type="text/javascript">
+              document.getElementById("toCodeButton").onclick = function () {
+                  location.href = "{{ post.code }}";
+              };
+          </script><br><br>
   </article>
 </div>
+
