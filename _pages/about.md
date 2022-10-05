@@ -12,11 +12,11 @@ Welcome ! I am a Student in Machine Learning, just graduated from the ENS (Ecole
 
 Previously I have done various research internships in Computer Vision. The latest one was in Valeo.ai where I was supervised by [Patrick Perez](http://ptrckprz.github.io): my research focused on developping Driver Monitoring Sytems throuch the analysis of the driver with 3D Pose Estimation.
 
-<b>I am looking for a 4 to 5-6 months research internship in the field of Vision and Language/Speech models. I am open to work in any place, especially in the UK, Korea, Japan, Northern Europ, Canada and the US.</b>
+<b>I am looking for a 4 to 5-6 months research internship in the field of Vision and Language/Speech models. I am open to work in any place, especially in UK, Korea, Japan, Northern Europe, Canada and US.</b>
 
 
 
-You can also file in details the courses I followed during my master [here](https://victoria-brami.github.io/courses/)
+You can also file in details the courses I followed during my master [here](https://victoria-brami.github.io/courses/) and my [resume](https://victoria-brami.github.io/cv/)
 
 
 Selected Projects
@@ -40,12 +40,13 @@ There are more to come of course ;)<>
   display: inline-block;
   font-size: 16px;
   cursor: pointer;
-  margin: 4px 10px;
+  margin: 4px 6px;
   color: white;
 }
 .buttonsRed1 {cursor: pointer; border-radius: 4px; background-color: #DC143C;}
 .buttonsGreen1 {border-radius: 4px; background-color: #4CAF50;}
 .buttonsBlue1 { width: 4.2em; border-radius: 4px; background-color: #008CBA;}
+.buttonsOrange1 { width: 4.2em; border-radius: 4px; background-color: #DC8C14;}
 table, th, td {
   border: 0px solid black;
   border-collapse: collapse;
@@ -147,7 +148,7 @@ span.highlight {
 </div>
 <script type="text/javascript">
     document.getElementById("toPdfButton").onclick = function () {
-        location.href = "https://victoria-brami.github.io";
+        location.href = "../files/reports/report_mva_valeo.pdf";
     };
 </script>
 <div class="buttons buttonsGreen1">
@@ -157,7 +158,15 @@ span.highlight {
     document.getElementById("toCodeButton").onclick = function () {
         location.href = "https://github.com/victoria-brami/pose_estimation_benchmark.git";
     };
-</script><br><br><br>
+</script>
+<div class="buttons buttonsOrange1">
+    <buttons id="toSlidesButton" class="float-left submit-button" >Slides</buttons>
+    </div>
+    <script type="text/javascript">
+        document.getElementById("toCodeButton").onclick = function () {
+            location.href = "../slides/valeoai_presentation.pdf";
+        };
+  </script><br><br><br>
 <div class="list-work">
       <a href="">
         <img src="../images/celebA_inpainting.gif"> <!-- Image is mandatory for publications -->
@@ -172,7 +181,7 @@ span.highlight {
     </div>
     <script type="text/javascript">
         document.getElementById("toPdfButton").onclick = function () {
-            location.href = "https://victoria-brami.github.io";
+            location.href = "../files/reports/Inpainting_project.pdf";
         };
     </script>
     <div class="buttons buttonsGreen1">
@@ -181,6 +190,14 @@ span.highlight {
     <script type="text/javascript">
         document.getElementById("toCodeButton").onclick = function () {
             location.href = "https://github.com/victoria-brami/mva_inpainting_project.git";
+        };
+  </script>
+  <div class="buttons buttonsOrange1">
+    <buttons id="toSlidesButton" class="float-left submit-button" >Slides</buttons>
+    </div>
+    <script type="text/javascript">
+        document.getElementById("toCodeButton").onclick = function () {
+            location.href = "../slides/Inpainting_presentation.pdf";
         };
   </script>
       <p align=justify> 
