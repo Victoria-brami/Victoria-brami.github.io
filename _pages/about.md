@@ -127,7 +127,7 @@ span.highlight {
 
 
 <body>
-<date_title><b>2022</b></date_title>
+<date_title><b style="color:#069;">2022</b></date_title>
   <hr style="width:100%;text-align:left;margin-left:0">
 <div class="list-work">
       <a href="">
@@ -203,7 +203,7 @@ span.highlight {
   </script>
       <p align=justify> 
       </p><br><br>
-<date_title><b>2021</b></date_title>
+<date_title><b style="color:#069;">2021</b></date_title>
   <hr style="width:100%;text-align:left;margin-left:0"><br>
   <div class="list-work">
       <a href="">
@@ -236,4 +236,4 @@ span.highlight {
       };
   </script><br><br>
 
-  <p align=center> [Click here to load more projects](https://victoria-brami.github.io/hobbies/) </p>
+  <b style="text-align:center;">[Click here to load more projects](https://victoria-brami.github.io/hobbies/) </b>

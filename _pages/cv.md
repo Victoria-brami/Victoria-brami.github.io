@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -100,17 +100,48 @@ Competitive Exam Entrance.<br><br>
 * <b style="text-align:left;">Image Classification with Kernel Methods</b><span style="float:right;"><b>Paris-Saclay, FRANCE</b></span><br>
 <i style="text-align:left;">Supervised by <strong>Julien Mairal and Michael Arbel</strong>.</i><span style="float:right;"><i align=right>Mar. 2022– Apr. 2022</i></span><br>
 
-* <b style="text-align:left;"></b><span style="float:right;"><b>Paris-Saclay, FRANCE</b></span><br>
+* <b style="text-align:left;">Study of a Character-level tokenizer</b><span style="float:right;"><b>Paris-Saclay, FRANCE</b></span><br>
 <i style="text-align:left;">Supervised by <strong>Benoit Sagot and Emmanuel Dupoux</strong>.</i><span style="float:right;"><i align=right>Mar. 2022– Apr. 2022</i></span><br>
 
 * <b style="text-align:left;">Image Completion using GANs</b><span style="float:right;"><b>Paris-Saclay, FRANCE</b></span><br>
-<i style="text-align:left;">Supervised by <strong>Benoit Sagot and Emmanuel Dupoux</strong>.</i><span style="float:right;"><i align=right>Mar. 2022– Apr. 2022</i></span><br>
+<i style="text-align:left;">Supervised by <strong>Yann Gousseau</strong>.</i><span style="float:right;"><i align=right>Jan. 2022– Feb. 2022</i></span><br>
+
+* <b style="text-align:left;">3D action-conditioned human motion synthesis</b><span style="float:right;"><b>Paris-Saclay, FRANCE</b></span><br>
+<i style="text-align:left;">Supervised by <strong>Gül Varol </strong>(Imagine, ENPC).</i><span style="float:right;"><i align=right>Jan. 2022– Feb. 2022</i></span><br>
+
+* <b style="text-align:left;"></b>Using MoE to model global warming<span style="float:right;"><b>Paris-Saclay, FRANCE</b></span><br>
+<i style="text-align:left;">Supervised by <strong>Stéphanie Allassonière</strong>(Prairie).</i><span style="float:right;"><i align=right>Jan. 2022</i></span><br><br><br>
+
+<h1 style="color:#069;">Personal Projects</h1>
+<hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;">
 
 <h1 style="color:#069;">Computing Skills</h1>
 <hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;">
+<b style="text-align:left;">Frameworks:</b>
+<ul>
+  <li>Linux</li>
+  <li>Git / Gitlab</li>
+  <li>Latex, Beamer</li>
+  <li>Slack, Trello</li>
+  <li>Microsoft office</li>
+</ul> <br>
+<b style="text-align:left;">Programming Languages:</b>
+<ul>
+  <li>Python (6+ years)</li>
+  <li>C++ (3+ years)</li>
+  <li>HTML/CSS (beginner)</li>
+</ul> <br>
+<b style="text-align:left;">Programming Libraries:</b>Pytorch, OpenCV, pandas,plotly, tensorboard, wandb, etc.<br>
+
 <h1 style="color:#069;">Languages</h1>
 <hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;">
-<h1 style="color:#069;">Personal Interests</h1>
+<p style="text-align:left;"><strong>French:</strong>Mother tongue.</p><span style="float:right;"><i align=right>C2</i></span><br>
+<p style="text-align:left;"><strong>English:</strong>Proficiency.</p><span style="float:right;"><i align=right>C1-C2</i></span><br>
+<p style="text-align:left;"><strong>Japanese:</strong>Conversational, live in Tokyo for seven years.</p><span style="float:right;"><i align=right>B1-B2</i></span><br>
+<p style="text-align:left;"><strong>Spanish:</strong>Conversational.</p><span style="float:right;"><i align=right>B1-B2</i></span><br>
+<p style="text-align:left;"><strong>Chinese:</strong>Notions.</p><span style="float:right;"><i align=right>A2</i></span><br>
+<p style="text-align:left;"><strong>Italian:</strong>Notions.</p><span style="float:right;"><i align=right>A2</i></span><br>
+<!-- <h1 style="color:#069;">Personal Interests</h1>
 <hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;">
 <h1 style="color:#069;">Community and Volunteering Experience</h1>
-<hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;">
+<hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;"> -->
