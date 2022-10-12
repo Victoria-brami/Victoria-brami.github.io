@@ -12,7 +12,6 @@ slides: files/slides/
 collection: projects
 type: "Projects"
 permalink: /projects/2022-04-25-valeo-project
-#venue: "Testing Institute of America 2014 Annual Conference"
 date: 2022-09-30
 period: April 2022 - September 2022
 location: "Paris, FRANCE"

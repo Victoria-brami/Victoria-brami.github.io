@@ -12,7 +12,6 @@ slides: files/slides/
 collection: projects
 type: "Projects"
 permalink: /projects/2022-04-01-kernel-data-challenge/
-#venue: "Testing Institute of America 2014 Annual Conference"
 date: 2022-03-01
 period: March 2022
 location: "Paris, FRANCE"

@@ -14,7 +14,7 @@ type: "Projects"
 permalink: /projects/2022-04-25-valeo-project
 #venue: "Testing Institute of America 2014 Annual Conference"
 date: 2021-12-30
-period: Decelber 2021
+period: December 2021
 location: "Paris, FRANCE"
 ---
 
