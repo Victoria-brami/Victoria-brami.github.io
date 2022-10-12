@@ -23,7 +23,7 @@ Selected Projects
 ======
 <hr style="width:100%;text-align:left;margin-left:0">
 Here are some examples of the projects I have carried out, do not hesitate to click [on this link](https://victoria-brami.github.io/hobbies/) for more!
-There are more to come of course ;)<>
+There are more to come of course ;).
 
 
 <head>
@@ -164,9 +164,10 @@ span.highlight {
     </div>
     <script type="text/javascript">
         document.getElementById("toCodeButton").onclick = function () {
-            location.href = "../slides/valeoai_presentation.pdf";
+            location.href = "../files/slides/valeoai_presentation.pdf";
         };
-  </script><br><br><br>
+  </script> <p align=justify> 
+      </p><br><br><br>
 <div class="list-work">
       <a href="">
         <img src="../images/celebA_inpainting.gif"> <!-- Image is mandatory for publications -->
@@ -233,4 +234,6 @@ span.highlight {
       document.getElementById("toCodeButton").onclick = function () {
           location.href = "https://github.com/victoria-brami/pose_estimation_benchmark.git";
       };
-  </script>
+  </script><br><br>
+
+  <p align=center> [Click here to load more projects](https://victoria-brami.github.io/hobbies/) </p>

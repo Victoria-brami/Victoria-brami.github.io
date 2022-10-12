@@ -193,6 +193,9 @@ collections:
     permalink: /:collection/:path/
   personal_interests:
     output: true
+    permalink: /:collection/:path/  
+  files:
+    output: true
     permalink: /:collection/:path/      
 
 # Defaults
@@ -254,6 +257,14 @@ defaults:
   - scope:
       path: ""
       type: courses
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _files
+  - scope:
+      path: "files"
+      type: files
     values:
       layout: single
       author_profile: true
