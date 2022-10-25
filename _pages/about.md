@@ -10,17 +10,17 @@ redirect_from:
 
 <p style="width:100%;text-align:justify;">Hi there, I am a Student in Machine Learning, just graduated from the ENS (Ecole Normale Supérieure) Paris-Saclay and Ecole des Ponts ParisTech with an MSc. in Applied Mathematics, Deep Learning and Computer Vision (<b>Master MVA</b>). 
 
-Previously I have done various research internships in Computer Vision. The latest one was in Valeo.ai where I was supervised by [Patrick Perez](http://ptrckprz.github.io): my research focused on developping Driver Monitoring Sytems throuch the analysis of the driver with 3D Pose Estimation.</p>
+Previously I have done various research internships in Computer Vision. The latest one was in Valeo.ai where I was supervised by <a href="http://ptrckprz.github.io" style="width:100%;text-align:justify;">Patrick Perez</a>: my research focused on developping Driver Monitoring Sytems throuch the analysis of the driver with 3D Pose Estimation.</p>
 
 <b style="width:100%;text-align:justify;">I am looking for a 4 to 5-6 months research internship in the field of Vision and Language/Speech models (Text-to-Image Video Generation, Visual QA, align text with videos, etc.). I am open to work in any place, especially in UK, Korea, Japan, Northern Europe, Canada and US.</b>
 
 
 
 <p style="width:100%;text-align:justify;">You can also file in details the courses I followed during my master<a href="https://victoria-brami.github.io/courses/"> here</a> and my<a style="width:100%;text-align:justify;" href="https://victoria-brami.github.io/cv/"> resume</a>.</p>
-
+<p style="width:100%;text-align:justify;"></p>
 
 <h1>Selected Projects</h1>
-<hr style="width:100%;text-align:left;margin-left:0;border:none;height:6px;color:#069;">
+<hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0">
 Here are some examples of the projects I have carried out, do not hesitate to click [on this link](https://victoria-brami.github.io/hobbies/) for more!
 There are more to come of course ;).
 
@@ -203,7 +203,7 @@ span.highlight {
       <p align=justify> 
       </p><br><br>
 <date_title><b style="color:#069;">2021</b></date_title>
-  <hr style="width:100%;text-align:left;margin-left:0"><br>
+  <hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0">
   <div class="list-work">
       <a href="">
         <img src="../images/speech_evaluation_pipeline.JPG">
@@ -234,7 +234,6 @@ span.highlight {
           location.href = "https://github.com/victoria-brami/pose_estimation_benchmark.git";
       };
   </script><br><br>
-
-  <b style="text-align:center;">![Click here to load more projects](https://victoria-brami.github.io/hobbies/) </b>
-
-  ![Click here to load more projects](https://victoria-brami.github.io/hobbies/) 
+    <p align=justify> 
+      </p><br><br>
+  <a style="text-align:center;font-size:22;" href="https://victoria-brami.github.io/projects/">Click here to see more projects</a>

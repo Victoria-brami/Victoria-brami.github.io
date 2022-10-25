@@ -73,8 +73,8 @@ Competitive Exam Entrance.<br><br>
 <hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;">
 * <b style="text-align:left;">Research Intern - Valeo AI</b><span style="float:right;"><b align=right>Paris, FRANCE</b></span><br>
 <i>Supervised by <strong>Patrick Perez</strong>.</i><span style="float:right;"><i align=right>Apr. 2022– Sept. 2022</i></span><br>
-  * 3D Facial, Hand and Human Pose Body Estimation for Driver Monitoring.
-  * Survey and review of the extisting interior monitoring datasets.<br><br>
+  * <p class="p8">3D Facial, Hand and Human Pose Body Estimation for Driver Monitoring.</p>
+  * <p class="p8">Survey and review of the extisting interior monitoring datasets.</p><br><br>
 
 * <b style="text-align:left;">Research Intern - Ecole Normale Supérieure and Inria</b><span style="float:right;"><b align=right>Paris, FRANCE</b></span><br>
 <i style="text-align:left;">Supervised by <strong>Juliette Millet</strong>, Ewan Dunbar and Emmanuel Dupoux.</i><span style="float:right;"><i align=right>Apr. 2022– Sept. 2022</i></span><br>
@@ -84,34 +84,33 @@ Competitive Exam Entrance.<br><br>
   * Developed a dataset storing website and the related documentation in Python which was used toi carry out experiments.<br><br>
 
 * <b style="text-align:left;">Deep Learning Scientist - StereoLabs</b><span style="float:right;"><b>Montrouge, FRANCE</b></span><br>
-<i style="text-align:left;">Supervised by <strong>Edwin Azzam (CTO)</strong>.</i><span style="float:right;"><i align=right>Apr. 2022– Sept. 2022</i></span><br>
+<i style="text-align:left;">Supervised by <strong>Edwin Azzam (CTO)</strong>.</i><span style="float:right;"><i align=right>Jul. 2020– Jan. 2021</i></span><br>
   * 3D skeleton inference on images from incomplete 3D data, leveraging full body context (PyTorch, OpenCV).<br><br>
 
-* <b style="text-align:left;">Physics Teaching Assistant</b><span style="float:right;"><b>Neuilly-Sur-Seine, FRANCE</b><br><br><br>
+* <b style="text-align:left;">Physics Teaching Assistant</b><span style="float:right;"><b>Neuilly-Sur-Seine, FRANCE</b><i align=right>Sept. 2019– Mar. 2020</i></span><br>* Interrogated students on a weekly basis in physics to train them for the Engineering Schools competitive entrance exams.<br><br><br>
   
 
 
 <h1 style="color:#069;">Academic Projects</h1>
 <hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;">
 * <b style="text-align:left;">Study of Character-Level Language Model</b><span style="float:right;"><b>Paris-Saclay, FRANCE</b></span><br>
-<i style="text-align:left;">Supervised by <strong>Benoit Sagot and Emmanuel Dupoux</strong>.</i><span style="float:right;"><i align=right>Mar. 2022– Apr. 2022</i></span><br>
+<i style="text-align:left;">Supervised by <strong>Benoit Sagot (Inria ALMANACH) and Emmanuel Dupoux (INRIA CoML and FAIR)</strong>.</i><span style="float:right;"><i align=right>Mar. 2022– Apr. 2022</i></span><br>
   * Compared Character-based LM to common SOTA word-based LM
 (mBert) on multilinigual classification and Question and Answering tasks.<br><br>
 
 * <b style="text-align:left;">Image Classification with Kernel Methods</b><span style="float:right;"><b>Paris-Saclay, FRANCE</b></span><br>
-<i style="text-align:left;">Supervised by <strong>Julien Mairal and Michael Arbel</strong>.</i><span style="float:right;"><i align=right>Mar. 2022– Apr. 2022</i></span><br>
-
-* <b style="text-align:left;">Study of a Character-level tokenizer</b><span style="float:right;"><b>Paris-Saclay, FRANCE</b></span><br>
-<i style="text-align:left;">Supervised by <strong>Benoit Sagot and Emmanuel Dupoux</strong>.</i><span style="float:right;"><i align=right>Mar. 2022– Apr. 2022</i></span><br>
+<i style="text-align:left;">Supervised by <strong>Julien Mairal and Michael Arbel (Inria THOTH team)</strong>.</i><span style="float:right;"><i align=right>Mar. 2022– Apr. 2022</i></span><br>
+* Kaggle data challenge to classify images relying on Kernel models.<br>
 
 * <b style="text-align:left;">Image Completion using GANs</b><span style="float:right;"><b>Paris-Saclay, FRANCE</b></span><br>
-<i style="text-align:left;">Supervised by <strong>Yann Gousseau</strong>.</i><span style="float:right;"><i align=right>Jan. 2022– Feb. 2022</i></span><br>
+<i style="text-align:left;">Supervised by <strong>Yann Gousseau (Telecom ParisTech).</strong>.</i><span style="float:right;"><i align=right>Jan. 2022– Feb. 2022</i></span><br>* Ablation study on a GAN to render the inpainting result
+more consistent locally and globally.<br>
 
 * <b style="text-align:left;">3D action-conditioned human motion synthesis</b><span style="float:right;"><b>Paris-Saclay, FRANCE</b></span><br>
-<i style="text-align:left;">Supervised by <strong>Gül Varol </strong>(Imagine, ENPC).</i><span style="float:right;"><i align=right>Jan. 2022– Feb. 2022</i></span><br>
+<i style="text-align:left;">Supervised by <strong>Gül Varol (Imagine, ENPC).</strong></i><span style="float:right;"><i align=right>Jan. 2022– Feb. 2022</i></span><br> * 3D human motions with generative models (VAE transformers).<br>
 
-* <b style="text-align:left;"></b>Using MoE to model global warming<span style="float:right;"><b>Paris-Saclay, FRANCE</b></span><br>
-<i style="text-align:left;">Supervised by <strong>Stéphanie Allassonière</strong>(Prairie).</i><span style="float:right;"><i align=right>Jan. 2022</i></span><br><br><br>
+* <b style="text-align:left;"></b>Using Mixture of Experts (MoE) to model Global warming<span style="float:right;"><b>Paris-Saclay, FRANCE</b></span><br>
+<i style="text-align:left;">Supervised by <strong>Stéphanie Allassonière (Prairie).</strong></i><span style="float:right;"><i align=right>Jan. 2022</i></span><br>Proposed a refined GMM-model to explain annual temperature variations.<br><br>
 
 <h1 style="color:#069;">Personal Projects</h1>
 <hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;">
