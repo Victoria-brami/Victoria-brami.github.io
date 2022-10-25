@@ -19,9 +19,8 @@ Previously I have done various research internships in Computer Vision. The late
 <p style="width:100%;text-align:justify;">You can also file in details the courses I followed during my master<a href="https://victoria-brami.github.io/courses/"> here</a> and my<a style="width:100%;text-align:justify;" href="https://victoria-brami.github.io/cv/"> resume</a>.</p>
 
 
-<b style="color:#069;font-size:28">Selected Projects</b>
-======
-<hr style="width:100%;text-align:left;margin-left:0">
+<h1>Selected Projects</h1>
+<hr style="width:100%;text-align:left;margin-left:0;border:none;height:6px;color:#069;">
 Here are some examples of the projects I have carried out, do not hesitate to click [on this link](https://victoria-brami.github.io/hobbies/) for more!
 There are more to come of course ;).
 
