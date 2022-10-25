@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 --- 
 
-Hi there, I am a Student in Machine Learning, just graduated from the ENS (Ecole Normale Supérieure) Paris-Saclay and Ecole des Ponts ParisTech with an MSc. in Applied Mathematics, Deep Learning and Computer Vision (**Master MVA**). 
+<p style="width:100%;text-align:justify;">Hi there, I am a Student in Machine Learning, just graduated from the ENS (Ecole Normale Supérieure) Paris-Saclay and Ecole des Ponts ParisTech with an MSc. in Applied Mathematics, Deep Learning and Computer Vision (**Master MVA**). 
 
-Previously I have done various research internships in Computer Vision. The latest one was in Valeo.ai where I was supervised by [Patrick Perez](http://ptrckprz.github.io): my research focused on developping Driver Monitoring Sytems throuch the analysis of the driver with 3D Pose Estimation.
+Previously I have done various research internships in Computer Vision. The latest one was in Valeo.ai where I was supervised by [Patrick Perez](http://ptrckprz.github.io): my research focused on developping Driver Monitoring Sytems throuch the analysis of the driver with 3D Pose Estimation.</p>
 
-<b>I am looking for a 4 to 5-6 months research internship in the field of Vision and Language/Speech models. I am open to work in any place, especially in UK, Korea, Japan, Northern Europe, Canada and US.</b>
+<b style="width:100%;text-align:justify;">I am looking for a 4 to 5-6 months research internship in the field of Vision and Language/Speech models (Text-to-Image Video Generation, Visual QA, align text with videos, etc.). I am open to work in any place, especially in UK, Korea, Japan, Northern Europe, Canada and US.</b>
 
 
 
-You can also file in details the courses I followed during my master [here](https://victoria-brami.github.io/courses/) and my [resume](https://victoria-brami.github.io/cv/)
+<p style="width:100%;text-align:justify;">You can also file in details the courses I followed during my master [here](https://victoria-brami.github.io/courses/) and my [resume](https://victoria-brami.github.io/cv/)</p>
 
 
 Selected Projects

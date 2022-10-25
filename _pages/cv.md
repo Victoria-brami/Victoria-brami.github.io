@@ -50,6 +50,7 @@ redirect_from:
 
 <h1 style="color:#069;">Education</h1>
 <hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;">
+
 * <b style="text-align:left;"> MSc. Learning Vision and Applied Mathematics (MVA)</b><span style="float:right;"><b>ENS Paris-Saclay, FRANCE</b></span><br>
 <i style="text-align:left;">Grade: 17.6 / 20</i><span style="float:right;"><i align=right>Sept. 2021 - Sept 2022</i><br>
   * First Semester: 3D Computer Vision, Convex Optimization, Computational Statistics, Numeric Imaging, Object Recognition.
@@ -119,24 +120,24 @@ Competitive Exam Entrance.<br><br>
 <hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;">
 <b style="text-align:left;">Frameworks:</b>
 <ul>
-  <li>Linux</li>
-  <li>Git / Gitlab</li>
-  <li>Latex, Beamer</li>
-  <li>Slack, Trello</li>
-  <li>Microsoft office</li>
+  <li class="p8">Linux</li>
+  <li class="p8">Git / Gitlab</li>
+  <li class="p8">Latex, Beamer</li>
+  <li class="p8">Slack, Trello</li>
+  <li class="p8">Microsoft office</li>
 </ul> <br>
 <b style="text-align:left;">Programming Languages:</b>
 <ul>
-  <li>Python (6+ years)</li>
-  <li>C++ (3+ years)</li>
-  <li>HTML/CSS (beginner)</li>
+  <li class="p8">Python (6+ years)</li>
+  <li class="p8">C++ (3+ years)</li>
+  <li class="p8">HTML/CSS (beginner)</li>
 </ul> <br>
 <b style="text-align:left;">Programming Libraries:</b>Pytorch, OpenCV, pandas,plotly, tensorboard, wandb, etc.<br>
 
 <h1 style="color:#069;">Languages</h1>
 <hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;">
-<p style="text-align:left;"><strong>French:</strong>Mother tongue.</p><span style="float:right;"><i align=right>C2</i></span><br>
-<p style="text-align:left;"><strong>English:</strong>Proficiency.</p><span style="float:right;"><i align=right>C1-C2</i></span><br>
+<p class="p8" style="text-align:left;"><strong>French: </strong>Mother tongue.</p><span style="float:right;"><i align=right>C2</i></span><br>
+<p class="p8" style="text-align:left;"><strong>English:</strong>Proficiency.</p><span style="float:right;"><i align=right>C1-C2</i></span><br>
 <p style="text-align:left;"><strong>Japanese:</strong>Conversational, live in Tokyo for seven years.</p><span style="float:right;"><i align=right>B1-B2</i></span><br>
 <p style="text-align:left;"><strong>Spanish:</strong>Conversational.</p><span style="float:right;"><i align=right>B1-B2</i></span><br>
 <p style="text-align:left;"><strong>Chinese:</strong>Notions.</p><span style="float:right;"><i align=right>A2</i></span><br>
