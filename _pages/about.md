@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome! "
+title: "<b style="color:#069;font-size:28">Welcome!</b>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 --- 
 
-<p style="width:100%;text-align:justify;">Hi there, I am a Student in Machine Learning, just graduated from the ENS (Ecole Normale Supérieure) Paris-Saclay and Ecole des Ponts ParisTech with an MSc. in Applied Mathematics, Deep Learning and Computer Vision (**Master MVA**). 
+<p style="width:100%;text-align:justify;">Hi there, I am a Student in Machine Learning, just graduated from the ENS (Ecole Normale Supérieure) Paris-Saclay and Ecole des Ponts ParisTech with an MSc. in Applied Mathematics, Deep Learning and Computer Vision (<b>Master MVA</b>). 
 
 Previously I have done various research internships in Computer Vision. The latest one was in Valeo.ai where I was supervised by [Patrick Perez](http://ptrckprz.github.io): my research focused on developping Driver Monitoring Sytems throuch the analysis of the driver with 3D Pose Estimation.</p>
 
@@ -16,10 +16,10 @@ Previously I have done various research internships in Computer Vision. The late
 
 
 
-<p style="width:100%;text-align:justify;">You can also file in details the courses I followed during my master [here](https://victoria-brami.github.io/courses/) and my [resume](https://victoria-brami.github.io/cv/)</p>
+<p style="width:100%;text-align:justify;">You can also file in details the courses I followed during my master<a href="https://victoria-brami.github.io/courses/"> here</a> and my<a style="width:100%;text-align:justify;" href="https://victoria-brami.github.io/cv/"> resume</a>.</p>
 
 
-Selected Projects
+<b style="color:#069;font-size:28">Selected Projects</b>
 ======
 <hr style="width:100%;text-align:left;margin-left:0">
 Here are some examples of the projects I have carried out, do not hesitate to click [on this link](https://victoria-brami.github.io/hobbies/) for more!
@@ -128,7 +128,7 @@ span.highlight {
 
 <body>
 <date_title><b style="color:#069;">2022</b></date_title>
-  <hr style="width:100%;text-align:left;margin-left:0">
+  <hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0">
 <div class="list-work">
       <a href="">
         <img src="../images/vp11_3_test_visual_single.gif"> <!-- Image is mandatory for publications -->
@@ -228,7 +228,7 @@ span.highlight {
       };
   </script>
   <div class="buttons buttonsGreen1">
-  <buttons id="toCodeButton" class="float-left submit-button" >Code</buttons>
+  <buttons id="toCodeButton" class="float-left submit-button">Code</buttons>
   </div>
   <script type="text/javascript">
       document.getElementById("toCodeButton").onclick = function () {
@@ -236,4 +236,6 @@ span.highlight {
       };
   </script><br><br>
 
-  <b style="text-align:center;">[Click here to load more projects](https://victoria-brami.github.io/hobbies/) </b>
+  <b style="text-align:center;">![Click here to load more projects](https://victoria-brami.github.io/hobbies/) </b>
+
+  ![Click here to load more projects](https://victoria-brami.github.io/hobbies/) 
