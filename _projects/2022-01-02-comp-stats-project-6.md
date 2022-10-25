@@ -3,7 +3,7 @@ title: ""
 where: <em>MSc research project</em> 
 link: https://victoria-brami.github.io
 authors: Victoria Brami,  Margot Cosson
-img: 
+img: /projects/tmoe_project.jpg
 abstract: 
 report: #https://ai.facebook.com/report/generating-chit-chat-including-laughs-yawns-ums-and-other-nonverbal-cues-from-raw-audio/
 code: https://github.com/victoria-brami/pose_estimation_benchmark.git

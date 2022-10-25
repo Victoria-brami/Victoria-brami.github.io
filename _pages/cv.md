@@ -100,17 +100,19 @@ Competitive Exam Entrance.<br><br>
 
 * <b style="text-align:left;">Image Classification with Kernel Methods</b><span style="float:right;"><b>Paris-Saclay, FRANCE</b></span><br>
 <i style="text-align:left;">Supervised by <strong>Julien Mairal and Michael Arbel (Inria THOTH team)</strong>.</i><span style="float:right;"><i align=right>Mar. 2022– Apr. 2022</i></span><br>
-* Kaggle data challenge to classify images relying on Kernel models.<br>
+* Kaggle data challenge to classify images relying on Kernel models.<br><br>
 
 * <b style="text-align:left;">Image Completion using GANs</b><span style="float:right;"><b>Paris-Saclay, FRANCE</b></span><br>
-<i style="text-align:left;">Supervised by <strong>Yann Gousseau (Telecom ParisTech).</strong>.</i><span style="float:right;"><i align=right>Jan. 2022– Feb. 2022</i></span><br>* Ablation study on a GAN to render the inpainting result
-more consistent locally and globally.<br>
+<i style="text-align:left;">Supervised by <strong>Yann Gousseau (Telecom ParisTech)</strong>.</i><span style="float:right;"><i align=right>Jan. 2022– Feb. 2022</i></span><br>
+* Ablation study on a GAN to render the inpainting result more consistent locally and globally.<br><br>
 
 * <b style="text-align:left;">3D action-conditioned human motion synthesis</b><span style="float:right;"><b>Paris-Saclay, FRANCE</b></span><br>
-<i style="text-align:left;">Supervised by <strong>Gül Varol (Imagine, ENPC).</strong></i><span style="float:right;"><i align=right>Jan. 2022– Feb. 2022</i></span><br> * 3D human motions with generative models (VAE transformers).<br>
+<i style="text-align:left;">Supervised by <strong>Gül Varol (Imagine, ENPC).</strong></i><span style="float:right;"><i align=right>Jan. 2022– Feb. 2022</i></span><br> 
+* 3D human motions with generative models (VAE transformers).<br><br>
 
 * <b style="text-align:left;"></b>Using Mixture of Experts (MoE) to model Global warming<span style="float:right;"><b>Paris-Saclay, FRANCE</b></span><br>
-<i style="text-align:left;">Supervised by <strong>Stéphanie Allassonière (Prairie).</strong></i><span style="float:right;"><i align=right>Jan. 2022</i></span><br>Proposed a refined GMM-model to explain annual temperature variations.<br><br>
+<i style="text-align:left;">Supervised by <strong>Stéphanie Allassonière (Prairie).</strong></i><span style="float:right;"><i align=right>Jan. 2022</i></span><br> 
+* Proposed a refined GMM-model to explain annual temperature variations.<br><br>
 
 <h1 style="color:#069;">Personal Projects</h1>
 <hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;">
@@ -135,12 +137,17 @@ more consistent locally and globally.<br>
 
 <h1 style="color:#069;">Languages</h1>
 <hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;">
-<p class="p8" style="text-align:left;"><strong>French: </strong>Mother tongue.</p><span style="float:right;"><i align=right>C2</i></span><br>
-<p class="p8" style="text-align:left;"><strong>English:</strong>Proficiency.</p><span style="float:right;"><i align=right>C1-C2</i></span><br>
-<p style="text-align:left;"><strong>Japanese:</strong>Conversational, live in Tokyo for seven years.</p><span style="float:right;"><i align=right>B1-B2</i></span><br>
-<p style="text-align:left;"><strong>Spanish:</strong>Conversational.</p><span style="float:right;"><i align=right>B1-B2</i></span><br>
-<p style="text-align:left;"><strong>Chinese:</strong>Notions.</p><span style="float:right;"><i align=right>A2</i></span><br>
-<p style="text-align:left;"><strong>Italian:</strong>Notions.</p><span style="float:right;"><i align=right>A2</i></span><br>
+
+* <p class="p8" style="text-align:left;"><strong>French: </strong>Mother tongue.</p><span style="float:right;"><i align=right>C2</i></span><br>
+
+* <p class="p8" style="text-align:left;"><strong>English:</strong> Proficiency.</p><span style="float:right;"><i align=right>C1-C2</i></span><br>
+* <p class="p8" style="text-align:left;"><strong>Japanese:</strong>Conversational, live in Tokyo for seven years.</p><span style="float:right;"><i align=right>B1-B2</i></span><br>
+
+* <p class="p8" style="text-align:left;"><strong>Spanish:</strong>Conversational.</p><span style="float:right;"><i align=right>B1-B2</i></span><br>
+
+* <p class="p8" style="text-align:left;"><strong>Chinese:</strong>Notions.</p><span style="float:right;"><i align=right>A2</i></span><br>
+
+* <p class="p8" style="text-align:left;"><strong>Italian:</strong>Notions.</p><span style="float:right;"><i align=right>A2</i></span><br>
 <!-- <h1 style="color:#069;">Personal Interests</h1>
 <hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;">
 <h1 style="color:#069;">Community and Volunteering Experience</h1>
