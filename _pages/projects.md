@@ -15,13 +15,15 @@ author_profile: true
   <style>
     date_title {
       font-family: 'Lato', Verdana, Helvetica, sans-serif;
-      font-size: 22px;
+      font-size: 20px;
       text-align: left;
+      color: #069;
   }
   </style>
 </head>
 
-<date_title><b style="color:#069;">2022</b></date_title>
+<hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0">
+<date_title>2022</date_title>
     <hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0">
 {% for post in site.projects reversed %}
   {% include archive-single-internship.html %}
@@ -30,9 +32,9 @@ author_profile: true
 
 <br><br>
 
-<date_title><b style="color:#069;">2021</b></date_title>
+<date_title>2021</date_title>
     <hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0">
-{% for post in site.projects_2021 reversed %}
+{% for post in site.publications reversed %}
   {% include archive-single-internship.html %}
  <!-- {% include archive-single-project.html %} -->
 {% endfor %}
