@@ -57,7 +57,7 @@ date_title {
 }
 strong {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
-    font-size: 14px;
+    font-size: 18px;
     }
 heading {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;

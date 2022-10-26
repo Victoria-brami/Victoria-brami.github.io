@@ -49,7 +49,7 @@ redirect_from:
 </style>
 
 <h1 style="color:#069;">Education</h1>
-<hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;">
+<hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0;color:#33CCFF;">
 
 * <b style="text-align:left;"> MSc. Learning Vision and Applied Mathematics (MVA)</b><span style="float:right;"><b>ENS Paris-Saclay, FRANCE</b></span><br>
 <i style="text-align:left;">Grade: 17.6 / 20</i><span style="float:right;"><i align=right>Sept. 2021 - Sept 2022</i><br>
@@ -92,7 +92,7 @@ Competitive Exam Entrance.<br><br>
 
 
 <h1 style="color:#069;">Academic Projects</h1>
-<hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;">
+<hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0;color:#33CCFF;">
 * <b style="text-align:left;">Study of Character-Level Language Model</b><span style="float:right;"><b>Paris-Saclay, FRANCE</b></span><br>
 <i style="text-align:left;">Supervised by <strong>Benoit Sagot (Inria ALMANACH) and Emmanuel Dupoux (INRIA CoML and FAIR)</strong>.</i><span style="float:right;"><i align=right>Mar. 2022– Apr. 2022</i></span><br>
   * Compared Character-based LM to common SOTA word-based LM
@@ -100,25 +100,31 @@ Competitive Exam Entrance.<br><br>
 
 * <b style="text-align:left;">Image Classification with Kernel Methods</b><span style="float:right;"><b>Paris-Saclay, FRANCE</b></span><br>
 <i style="text-align:left;">Supervised by <strong>Julien Mairal and Michael Arbel (Inria THOTH team)</strong>.</i><span style="float:right;"><i align=right>Mar. 2022– Apr. 2022</i></span><br>
-* Kaggle data challenge to classify images relying on Kernel models.<br><br>
+  * Kaggle data challenge to classify images relying on Kernel models.<br><br>
 
 * <b style="text-align:left;">Image Completion using GANs</b><span style="float:right;"><b>Paris-Saclay, FRANCE</b></span><br>
 <i style="text-align:left;">Supervised by <strong>Yann Gousseau (Telecom ParisTech)</strong>.</i><span style="float:right;"><i align=right>Jan. 2022– Feb. 2022</i></span><br>
-* Ablation study on a GAN to render the inpainting result more consistent locally and globally.<br><br>
+  * Ablation study on a GAN to render the inpainting result more consistent locally and globally.<br><br>
 
 * <b style="text-align:left;">3D action-conditioned human motion synthesis</b><span style="float:right;"><b>Paris-Saclay, FRANCE</b></span><br>
 <i style="text-align:left;">Supervised by <strong>Gül Varol (Imagine, ENPC).</strong></i><span style="float:right;"><i align=right>Jan. 2022– Feb. 2022</i></span><br> 
-* 3D human motions with generative models (VAE transformers).<br><br>
+  * 3D human motions with generative models (VAE transformers).<br><br>
 
 * <b style="text-align:left;"></b>Using Mixture of Experts (MoE) to model Global warming<span style="float:right;"><b>Paris-Saclay, FRANCE</b></span><br>
 <i style="text-align:left;">Supervised by <strong>Stéphanie Allassonière (Prairie).</strong></i><span style="float:right;"><i align=right>Jan. 2022</i></span><br> 
-* Proposed a refined GMM-model to explain annual temperature variations.<br><br>
+  * Proposed a refined GMM-model to explain annual temperature variations.<br>
+  
+  
+* <b style="text-align:left;"></b>Real-time Swimmer Tracking<span style="float:right;"><b>Champs Sur Marnes, FRANCE</b></span><br>
+<i style="text-align:left;">Supervised by Rémi Carmignani and<strong> Vincent Lepetit (Imagine ENPC) .</strong></i><span style="float:right;"><i align=right>Jan. 2020 -Jun. 2020</i></span><br> 
+  * In partnership with Sciences 2024, developed a model to track swimmers in realtime in the view of the Olympic Games in 2024.<br>
+  <br>
 
 <h1 style="color:#069;">Personal Projects</h1>
-<hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;">
+<hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0;color:#33CCFF;">
 
 <h1 style="color:#069;">Computing Skills</h1>
-<hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;">
+<hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0;color:#33CCFF;">
 <b style="text-align:left;">Frameworks:</b>
 <ul>
   <li class="p8">Linux</li>
@@ -133,21 +139,19 @@ Competitive Exam Entrance.<br><br>
   <li class="p8">C++ (3+ years)</li>
   <li class="p8">HTML/CSS (beginner)</li>
 </ul> <br>
-<b style="text-align:left;">Programming Libraries:</b>Pytorch, OpenCV, pandas,plotly, tensorboard, wandb, etc.<br>
+<b style="text-align:left;">Programming Libraries:</b> Pytorch, OpenCV, pandas,plotly, tensorboard, wandb, etc.<br>
 
 <h1 style="color:#069;">Languages</h1>
-<hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;">
+<hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0;color:#33CCFF;">
 
-* <p class="p8" style="text-align:left;"><strong>French: </strong>Mother tongue.</p><span style="float:right;"><i align=right>C2</i></span><br>
+* <p class="p8" style="text-align:left;"><strong>French: </strong>Mother tongue.<span style="float:right;"><i>C2</i></span></p><br>
 
-* <p class="p8" style="text-align:left;"><strong>English:</strong> Proficiency.</p><span style="float:right;"><i align=right>C1-C2</i></span><br>
-* <p class="p8" style="text-align:left;"><strong>Japanese:</strong>Conversational, live in Tokyo for seven years.</p><span style="float:right;"><i align=right>B1-B2</i></span><br>
-
+* <p class="p8" style="text-align:left;"><strong>English:</strong> Proficiency.<span style="float:right;"><i align=right>C1-C2</i></span></p><br>
+* <p class="p8" style="text-align:left;"><strong>Japanese:</strong> Conversational, live in Tokyo for seven years.<span style="float:right;"><i>B1-B2</i></p></span><br>
 * <p class="p8" style="text-align:left;"><strong>Spanish:</strong>Conversational.</p><span style="float:right;"><i align=right>B1-B2</i></span><br>
+* <p class="p8" style="text-align:left;"><strong>Chinese:</strong>Notions.<span style="float:right;"><i align=right>A2</i></span></p><br>
 
-* <p class="p8" style="text-align:left;"><strong>Chinese:</strong>Notions.</p><span style="float:right;"><i align=right>A2</i></span><br>
-
-* <p class="p8" style="text-align:left;"><strong>Italian:</strong>Notions.</p><span style="float:right;"><i align=right>A2</i></span><br>
+* <p class="p8" style="text-align:left;"><strong>Italian:</strong>Notions.<span style="float:right;"><i align=right>A2</i></p></span><br>
 <!-- <h1 style="color:#069;">Personal Interests</h1>
 <hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;">
 <h1 style="color:#069;">Community and Volunteering Experience</h1>
