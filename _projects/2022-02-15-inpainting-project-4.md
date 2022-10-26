@@ -11,7 +11,7 @@ demo:
 slides: files/slides/Inpainting_project.pdf
 collection: projects
 type: "Projects"
-permalink: /projects/2022-02-15-inpainting
+permalink: /projects/2022-02-15-inpainting-projet-4
 date: 2022-02-15
 period: Dec. 2021 - Feb. 2022
 location: "Paris, FRANCE"

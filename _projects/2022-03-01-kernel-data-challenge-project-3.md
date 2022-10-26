@@ -11,7 +11,7 @@ demo: #https://speechbot.github.io/dgslm/
 slides: files/slides/
 collection: projects
 type: "Projects"
-permalink: /projects/2022-04-01-kernel-data-challenge/
+permalink: /projects/2022-04-01-kernel-data-challenge-project-3/
 date: 2022-03-01
 period: March 2022
 location: "Paris, FRANCE"
