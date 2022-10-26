@@ -7,7 +7,7 @@ collection: talks
 type: "Talk"
 img: /images/vp11_3_test_visual_single.gif # to be modified
 abstract: 
-report: "files/reports/KERNEL_DATA_CHALLENGE.pdf"
+report: /files/reports/KERNEL_DATA_CHALLENGE.pdf
 code: https://github.com/victoria-brami/kernel_data_challenge.git
 demo: #https://speechbot.github.io/dgslm/
 slides: /files/slides/

@@ -3,14 +3,14 @@ title: "CANINE: Study of a Character-based Language Model"
 where: : MSc Project (MVA)
 link: https://victoria-brami.github.io 
 authors: Victoria Brami, Maxime Poli.
-collection: projects
-type: "Projects"
+collection: talks
+type: "Talk"
 img: /images/vp11_3_test_visual_single.gif
 abstract: Tokenization is an essential pre-processing step for most of NLP models. Now state-of-the-art models, like BERT, have adopted subword tokenization but it yields intrinsic issues. Models trained which such tokenization tend to be senstivie to the noise present in the training data, would it be naturally present or adversarially created. Moreover, splitting sentences into subwords may work well in English, but it is not adapted for other languages with a different morphology. Using character-based models can be a way to tackle those issues CANINE is a recent Transformer-based model that directly uses a sequence of characters as the input without explicit tokenization.
 report: /files/reports/NLP_Projects.pdf
 code: https://github.com/mxmpl/canine.git
 demo:
-slides: files/slides/NLP_slides.pdf
+slides: /files/slides/NLP_slides.pdf
 permalink: /projects/2022-04-09-nlp-project-2/
 date: 2022-04-09
 period: Mar. 2022 - Apr. 2022
