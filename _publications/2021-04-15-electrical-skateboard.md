@@ -1,5 +1,7 @@
 ---
 title: "Building An Electrical Skate from Scratch"
+collection: talks
+type: "Talk"
 where:  
 link: https://victoria-brami.github.io
 authors: Victoria Brami.
@@ -9,10 +11,8 @@ report: # To add (technical report)
 code: # No code
 demo: #Link to my video
 slides: files/slides/
-collection: projects
-type: "Projects"
-permalink: /projects/2021-04-15-electrical-skateboard
-date: 2022-09-30
+permalink: /talks/2021-04-15-electrical-skateboard
+date: 2021-04-15
 period: November 2020 - April 2021
 location: "Paris, FRANCE"
 ---
