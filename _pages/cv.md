@@ -115,14 +115,29 @@ Competitive Exam Entrance.<br><br>
   * Proposed a refined GMM-model to explain annual temperature variations.<br>
   
   
-* <b style="text-align:left;"></b>Real-time Swimmer Tracking<span style="float:right;"><b>Champs Sur Marnes, FRANCE</b></span><br>
+* <b style="text-align:left;"></b>Real-time Swimmer Tracking<span style="float:right;"><b>Champs-sur-Marne, FRANCE</b></span><br>
 <i style="text-align:left;">Supervised by Rémi Carmignani and<strong> Vincent Lepetit (Imagine ENPC) .</strong></i><span style="float:right;"><i align=right>Jan. 2020 -Jun. 2020</i></span><br> 
   * In partnership with Sciences 2024, developed a model to track swimmers in realtime in the view of the Olympic Games in 2024.<br>
-  <br>
+
+* <b style="text-align:left;"></b>Realtime pricing system for self-service vehicle application<span style="float:right;"><b>Champs-sur-Marne, FRANCE</b></span><br>
+<i style="text-align:left;">Supervised by <strong> Frédéric Meunier (CERMICS ENPC) .</strong></i><span style="float:right;"><i align=right>Oct. 2019 -Feb. 2020</i></span><br> 
+* Proposed a simulator to model the self-resupplying of parisian
+bike stations.<br>
+<br>
 
 <h1 style="color:#069;">Personal Projects</h1>
 <hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0;color:#33CCFF;">
 
+* <b style="text-align:left;"></b>Deployment of University Grants Platform<span style="float:right;"><i>Apr. 2022 - present</i></span><br>
+  * Developing a website to centralize and list the University Grants accessible to students.<br>
+
+* <b style="text-align:left;"></b>Conception of an Electrical Skateboard<span style="float:right;"><i>Dec. 2020 - 2021</i></span><br>
+  * Built an electrical skateboard from scratch.<br>
+
+* <b style="text-align:left;"></b>MRI Annotation application for Bordeaux Hospital<span style="float:right;"><i>Feb. 2021</i></span><br>
+  * Developed an app to help cardiologists to annotate scars on MRI (Python Flask).<br>
+
+<br>
 <h1 style="color:#069;">Computing Skills</h1>
 <hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0;color:#33CCFF;">
 <b style="text-align:left;">Frameworks:</b>
@@ -148,10 +163,10 @@ Competitive Exam Entrance.<br><br>
 
 * <p class="p8" style="text-align:left;"><strong>English:</strong> Proficiency.<span style="float:right;"><i align=right>C1-C2</i></span></p><br>
 * <p class="p8" style="text-align:left;"><strong>Japanese:</strong> Conversational, live in Tokyo for seven years.<span style="float:right;"><i>B1-B2</i></p></span><br>
-* <p class="p8" style="text-align:left;"><strong>Spanish:</strong>Conversational.</p><span style="float:right;"><i align=right>B1-B2</i></span><br>
-* <p class="p8" style="text-align:left;"><strong>Chinese:</strong>Notions.<span style="float:right;"><i align=right>A2</i></span></p><br>
+* <p class="p8" style="text-align:left;"><strong>Spanish:</strong> Conversational.</p><span style="float:right;"><i align=right>B1-B2</i></span><br>
+* <p class="p8" style="text-align:left;"><strong>Chinese:</strong> Notions.<span style="float:right;"><i align=right>A2</i></span></p><br>
 
-* <p class="p8" style="text-align:left;"><strong>Italian:</strong>Notions.<span style="float:right;"><i align=right>A2</i></p></span><br>
+* <p class="p8" style="text-align:left;"><strong>Italian:</strong> Notions.<span style="float:right;"><i align=right>A2</i></p></span><br>
 <!-- <h1 style="color:#069;">Personal Interests</h1>
 <hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;">
 <h1 style="color:#069;">Community and Volunteering Experience</h1>
