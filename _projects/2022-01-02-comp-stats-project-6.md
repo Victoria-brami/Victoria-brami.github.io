@@ -4,7 +4,7 @@ where: MSc research project
 collection: talks
 type: "Talk"
 link: https://victoria-brami.github.io
-authors: Victoria Brami,  Margot Cosson
+authors: Victoria Brami,  Margot Cosson.
 img: /images/tmoe_project.jpg
 abstract: 
 report: 
