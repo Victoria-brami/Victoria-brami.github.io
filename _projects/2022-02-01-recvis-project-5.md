@@ -9,8 +9,8 @@ report: /files/reports/FPP_Report.pdf
 code: https://github.com/victoria-brami/ACTOR.git
 demo:
 slides: 
-collection: projects
-type: "Projects"
+collection: talks
+type: "Talk"
 permalink: /projects/2022-02-01-recvis-project-5
 date: 2022-02-01
 period: Dec. 2021 - Feb. 2022
