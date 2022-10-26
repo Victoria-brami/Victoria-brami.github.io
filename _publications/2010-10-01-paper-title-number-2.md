@@ -1,5 +1,5 @@
 ---
-title: "Inpainting Faces with GANs: an ablation study"
+title: "First Inpainting Faces with GANs: an ablation study"
 collection: talks
 type: "Talk"
 permalink: /talks/2022-02-15-inpainting
