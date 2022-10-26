@@ -5,11 +5,13 @@ permalink: /projects/
 author_profile: true
 ---
 
+{% include base_path %}
+
 {% if site.talkmap_link == true %}
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 {% endif %}
 
-{% include base_path %}
+
 
 <head>
   <style>
@@ -23,6 +25,7 @@ author_profile: true
 </head>
 
 <hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0">
+<br>
 <date_title>  2022</date_title>
     <hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0">
 
