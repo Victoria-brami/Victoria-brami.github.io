@@ -26,8 +26,8 @@ author_profile: true
 
 <hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0">
 <br>
-<date_title>  2022</date_title>
-    <hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0">
+<date_title><strong>2022</strong></date_title>
+    <!-- <hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0">-->
 
 {% for post in site.projects reversed %}
   {% include archive-single-internship.html %}
@@ -35,7 +35,7 @@ author_profile: true
 {% endfor %}
 <p align=justify></p>
 <br>
-<date_title>  2021</date_title>
+<date_title><strong>2021</strong></date_title>
     <hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0">
 {% for post in site.publications reversed %}
   {% include archive-single-internship.html %}

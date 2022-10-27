@@ -11,7 +11,7 @@ report: /files/reports/KERNEL_DATA_CHALLENGE.pdf
 code: https://github.com/victoria-brami/kernel_data_challenge.git
 demo: #https://speechbot.github.io/dgslm/
 slides: /files/slides/
-permalink: /projects/2022-04-01-kernel-data-challenge-project-3/
+permalink: /projects/2022-03-01-kernel-data-challenge-project-3/
 date: 2022-03-01
 period: March 2022
 location: "Paris, FRANCE"
