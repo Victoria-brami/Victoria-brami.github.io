@@ -1,6 +1,6 @@
 ---
 title: "3D Wholebody Pose Estimation for Driver Monitoring"
-where: <em>Valeo AI research project</em> 
+where: Valeo AI research project
 link: https://victoria-brami.github.io
 authors: Victoria Brami,  <strong>Patrick Pérez</strong>, Renaud Marlet and Souhaiel Khalfaoui.
 img: /images/vp11_3_test_visual_single.gif
