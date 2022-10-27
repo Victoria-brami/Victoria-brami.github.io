@@ -1,5 +1,5 @@
 ---
-title: "CANINE, Study of a Character-based Language Model"
+title: "CANINE: Study of a Character-based Language Model"
 where: : MSc Project (MVA)
 link: https://victoria-brami.github.io 
 authors: Victoria Brami, Maxime Poli.
