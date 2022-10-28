@@ -11,8 +11,8 @@ report: /files/reports/NLP_Project.pdf
 code: https://github.com/mxmpl/canine.git
 demo: #to add
 slides: /files/slides/NLP_slides.pdf
-permalink: /projects/2022-04-09-nlp-project-2/
-date: 2022-04-09
+permalink: /projects/2021-04-09-nlp-project-2/
+date: 2021-04-09
 period: Mar. 2022 - Apr. 2022
 location: "Paris, FRANCE"
 ---

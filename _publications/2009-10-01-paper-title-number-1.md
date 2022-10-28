@@ -1,18 +1,12 @@
 ---
-title: "Inpainting Faces with GANs: an ablation study"
+title: "Talk 1 on Relevant Topic in Your Field"
 collection: talks
 type: "Talk"
-permalink: /talks/2022-02-15-inpainting
-venue: 
-code: https://github.com/victoria-brami/Inpainting_project_mva.git
-slides:
-abstract: 
-img: "../images/celebA_inpainting.gif"
-date: 2022-02-15
-location: "Paris, FRANCE"
+img: /images/action1_generation_0.gif
+permalink: /talks/2009-10-01-talk-1
+venue: "UC San Francisco, Department of Testing"
+date: 2009-10-01
+location: "San Francisco, California"
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
