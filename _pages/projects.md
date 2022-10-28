@@ -29,11 +29,11 @@ author_profile: true
 <br>
 <date_title><b>2022</b></date_title>
     <!-- <hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0">-->
-
-{% for post in site.projects reversed %}
+{% for post in site.talks reversed %}
   {% include archive-single-internship.html %}
  <!-- {% include archive-single-project.html %} -->
 {% endfor %}
+<p align=justify></p>
 <p align=justify></p>
 <br>
 <date_title><b>2021</b></date_title>
@@ -42,4 +42,4 @@ author_profile: true
   {% include archive-single-internship.html %}
  <!-- {% include archive-single-project.html %} -->
 {% endfor %}
-</body>
+
