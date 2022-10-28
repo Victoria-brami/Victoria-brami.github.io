@@ -29,7 +29,7 @@ author_profile: true
 <br>
 <date_title><b>2022</b></date_title>
     <!-- <hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0">-->
-{% for post in site.talks reversed %}
+{% for post in site.posts reversed %}
   {% include archive-single-internship.html %}
  <!-- {% include archive-single-project.html %} -->
 {% endfor %}
