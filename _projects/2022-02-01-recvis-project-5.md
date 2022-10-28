@@ -13,7 +13,7 @@ demo:
 slides: 
 permalink: /projects/2022-02-01-recvis-project-5/
 date: 2022-02-01
-period: Dec. 2021 - Feb. 2022
+period: December 2021 - February 2022
 location: "Paris, FRANCE"
 ---
 

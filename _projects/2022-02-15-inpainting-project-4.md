@@ -2,8 +2,8 @@
 title: "Inpainting Faces with GANs: an ablation study"
 where: : MSc Project (MVA)
 link: https://victoria-brami.github.io
-authors: Victoria Brami, Clarine Vongpaseut .
-img: /images/celebA_inpainting.gif
+authors: Victoria Brami, Clarine Vongpaseut.
+img: "/images/celebA_inpainting.gif"
 abstract:
 report:
 code: https://github.com/victoria-brami/Inpainting_project_mva.git

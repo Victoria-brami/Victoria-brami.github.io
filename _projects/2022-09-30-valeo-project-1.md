@@ -11,7 +11,7 @@ demo: #https://speechbot.github.io/dgslm/
 slides: /files/slides/
 collection: talks
 type: "Talk"
-permalink: /projects/2022-09-30-valeo-project
+permalink: /projects/2022-09-30-valeo-project-1
 date: 2022-09-30
 period: April 2022 - September 2022
 location: "Paris, FRANCE"
