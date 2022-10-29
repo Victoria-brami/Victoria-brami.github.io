@@ -1,14 +1,15 @@
 ---
-title: "First Inpainting Faces with GANs: an ablation study"
+title: "Inpainting Faces with GANs: an ablation study"
 collection: talks
 type: "Talk"
-permalink: /talks/2022-02-15-inpainting
+permalink: /projects/2022-02-15-inpainting
 venue: 
 code: https://github.com/victoria-brami/Inpainting_project_mva.git
 slides: /files/slides/Inpainting_presentation.pdf
 abstract: 
 img: "/images/celebA_inpainting.gif"
 #date: 2022-02-15
+period: December 2021 - February 2022
 location: "Paris, FRANCE"
 ---
 This paper is about the number 2. The number 3 is left for future work.
