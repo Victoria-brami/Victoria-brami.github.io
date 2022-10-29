@@ -6,7 +6,7 @@ authors: Victoria Brami.
 collection: talks
 type: "Talk"
 img: /images/action1_generation_0.gif
-abstract: We study a robust method to generate realistic 3D-human motions which relies on the training of a Variational Auto-Encoder. We intent to improve the proposed model through the use of PARE, another pose inference model. We show that exploiting PARE renders better synthetic motions on NTU RGB dataset. We then test the model on more challenging motions like gymnastic floor and beam exercises on a hand-made dataset built from FineGym.
+abstract: We study a robust method to generate realistic 3D human motions which relies on the training of a Variational Auto Encoder. We intent to improve the proposed model through the use of PARE, another pose inference model. We show that exploiting PARE renders better synthetic motions on NTU RGB dataset. We then test the model on more challenging motions like gymnastic floor and beam exercises on a handmade dataset built from FineGym.
 report: /files/reports/FPP_Report.pdf
 code: https://github.com/victoria-brami/ACTOR.git
 demo:
