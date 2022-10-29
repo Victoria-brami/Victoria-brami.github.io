@@ -13,7 +13,7 @@ demo: #to add
 slides: /files/slides/NLP_slides.pdf
 permalink: /projects/2022-04-09-nlp-project-2/
 date: 2022-04-09
-period: Mar. 2022 - Apr. 2022
+period: March 2022 - April 2022
 location: "Paris, FRANCE"
 ---
 

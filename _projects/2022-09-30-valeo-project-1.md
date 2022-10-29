@@ -8,10 +8,10 @@ abstract: Each year, almost 20 000 people die in Europe's roads in car accidents
 report: #https://ai.facebook.com/report/generating-chit-chat-including-laughs-yawns-ums-and-other-nonverbal-cues-from-raw-audio/
 code: https://github.com/victoria-brami/pose_estimation_benchmark.git
 demo: #https://speechbot.github.io/dgslm/
-slides: /files/slides/
+slides: /files/slides/valeo_intern_oral.pdf
 collection: talks
 type: "Talk"
-permalink: /projects/2022-09-30-valeo-project-1
+permalink: /projects/2022-09-30-valeo-project-1/
 date: 2022-09-30
 period: April 2022 - September 2022
 location: "Paris, FRANCE"
