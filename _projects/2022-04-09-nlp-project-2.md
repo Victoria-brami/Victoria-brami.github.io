@@ -12,7 +12,7 @@ code: https://github.com/mxmpl/canine.git
 demo: #to add
 slides: /files/slides/NLP_slides.pdf
 permalink: /projects/2022-04-09-nlp-project-2/
-date: 2022-04-09
+#date: 2022-04-09
 period: March 2022 - April 2022
 location: "Paris, FRANCE"
 ---
