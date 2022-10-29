@@ -1,5 +1,5 @@
 ---
-title: "Inpainting Faces with GANs: an ablation study"
+title: "Inpainting Faces with GANs an ablation study"
 where: : MSc Project (MVA)
 link: https://victoria-brami.github.io
 authors: Victoria Brami, Clarine Vongpaseut.
