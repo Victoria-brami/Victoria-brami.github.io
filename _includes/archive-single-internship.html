@@ -122,24 +122,25 @@
         <papertitle>{{ post.title }}</papertitle></a>
         <p>{{ post.authors }}</p>
         <p>{{ post.where }}, {{ post.period }}<strong> (Oral).</strong></p><br>
-  <div class="buttons buttonsBlue1">
-    <buttons id="toDemoButton" class="float-left submit-button" title="{{ post.abstract }}"> Abstract </buttons>
-  </div>
-  <div class="buttons buttonsRed1">
-  <buttons id="toPdfButton" class="float-left submit-button" >Report</buttons>
-  </div>
-  <script type="text/javascript">
-      document.getElementById("toPdfButton").onclick = function () {
-          location.href = "{{ base_path }}{{ post.report }}";
-      };
-  </script>
-  <div class="buttons buttonsGreen1">
-  <buttons id="toCodeButton" class="float-left submit-button" >Code</buttons>
-  </div>
-  <script type="text/javascript">
-      document.getElementById("toCodeButton").onclick = function () {
-          location.href = "{{ base_path }}{{ post.code }}";
-      };
-  </script>
+  {% if post.abstract %}<div class="buttons buttonsBlue1"><buttons id="toDemoButton" class="float-left submit-button" title="{{ post.abstract }}"> Abstract </buttons></div>{% endif %}
+  {% if post.report %}
+    <div class="buttons buttonsRed1">
+    <buttons id="toPdfButton" class="float-left submit-button" >Report</buttons></div>
+    <script type="text/javascript">
+        document.getElementById("toPdfButton").onclick = function () {
+            location.href = "{{ base_path }}{{ post.report }}";
+        };
+    </script>
+  {% endif %}
+  {% if post.code %}
+    <div class="buttons buttonsGreen1">
+    <buttons id="toCodeButton" class="float-left submit-button" >Code</buttons>
+    </div>
+    <script type="text/javascript">
+        document.getElementById("toCodeButton").onclick = function () {
+            location.href = "{{ base_path }}{{ post.code }}";
+        };
+    </script>
+  {% endif %}
   <p align=justify> 
   </p><br><br>
