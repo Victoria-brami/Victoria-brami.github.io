@@ -70,7 +70,7 @@ Competitive Exam Entrance.<br><br>
 <i>Grade: 18 / 20</i><span style="float:right;"><i align=right>2013 - 2016</i></span><br><br><br>
   
 <h1 style="color:#069;">Work Experience</h1>
-<hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;">
+<hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0;color:#33CCFF;">
 * <b style="text-align:left;">Research Intern - Valeo AI</b><span style="float:right;"><b align=right>Paris, FRANCE</b></span><br>
 <i>Supervised by <strong>Patrick Perez</strong>.</i><span style="float:right;"><i align=right>Apr. 2022– Sept. 2022</i></span><br>
   * <p class="p8">3D Facial, Hand and Human Pose Body Estimation for Driver Monitoring.</p>
@@ -158,15 +158,16 @@ bike stations.<br>
 
 <h1 style="color:#069;">Languages</h1>
 <hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0;color:#33CCFF;">
+<ul>
+<li class="p8"><p style="text-align:left;"><strong>French: </strong>Mother tongue.<span style="float:right;"><i>C2</i></span></p></li>
+<li class="p8"><p style="text-align:left;"><strong>English:</strong> Proficiency.<span style="float:right;"><i align=right>C1-C2</i></span></p></li>
+<li class="p8"><p style="text-align:left;"><strong>Japanese:</strong> Conversational, live in Tokyo for seven years.<span style="float:right;"><i>B1-B2</i></span></p></li>
+<li class="p8"><p style="text-align:left;"><strong>Spanish:</strong> Conversational.<span style="float:right;"><i align=right>B1-B2</i></span></p></li>
+<li class="p8"><p style="text-align:left;"><strong>Chinese:</strong> Notions.<span style="float:right;"><i align=right>A2</i></span></p></li>
+<li class="p8"><p style="text-align:left;"><strong>Italian:</strong> Notions.<span style="float:right;"><i align=right>A2</i></span></p></li>
+</ul> 
+<br>
 
-* <p class="p8" style="text-align:left;"><strong>French: </strong>Mother tongue.<span style="float:right;"><i>C2</i></span></p><br>
-
-* <p class="p8" style="text-align:left;"><strong>English:</strong> Proficiency.<span style="float:right;"><i align=right>C1-C2</i></span></p><br>
-* <p class="p8" style="text-align:left;"><strong>Japanese:</strong> Conversational, live in Tokyo for seven years.<span style="float:right;"><i>B1-B2</i></p></span><br>
-* <p class="p8" style="text-align:left;"><strong>Spanish:</strong> Conversational.</p><span style="float:right;"><i align=right>B1-B2</i></span><br>
-* <p class="p8" style="text-align:left;"><strong>Chinese:</strong> Notions.<span style="float:right;"><i align=right>A2</i></span></p><br>
-
-* <p class="p8" style="text-align:left;"><strong>Italian:</strong> Notions.<span style="float:right;"><i align=right>A2</i></p></span><br>
 <!-- <h1 style="color:#069;">Personal Interests</h1>
 <hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;">
 <h1 style="color:#069;">Community and Volunteering Experience</h1>
