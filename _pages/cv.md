@@ -71,10 +71,11 @@ Competitive Exam Entrance.<br><br>
   
 <h1 style="color:#069;">Work Experience</h1>
 <hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0;color:#33CCFF;">
+
 * <b style="text-align:left;">Research Intern - Valeo AI</b><span style="float:right;"><b align=right>Paris, FRANCE</b></span><br>
 <i>Supervised by <strong>Patrick Perez</strong>.</i><span style="float:right;"><i align=right>Apr. 2022– Sept. 2022</i></span><br>
   * <p class="p8">3D Facial, Hand and Human Pose Body Estimation for Driver Monitoring.</p>
-  * <p class="p8">Survey and review of the extisting interior monitoring datasets.</p><br><br>
+  * <p class="p8">Survey and review of the extisting interior monitoring datasets.</p><br>
 
 * <b style="text-align:left;">Research Intern - Ecole Normale Supérieure and Inria</b><span style="float:right;"><b align=right>Paris, FRANCE</b></span><br>
 <i style="text-align:left;">Supervised by <strong>Juliette Millet</strong>, Ewan Dunbar and Emmanuel Dupoux.</i><span style="float:right;"><i align=right>Apr. 2022– Sept. 2022</i></span><br>
@@ -87,7 +88,9 @@ Competitive Exam Entrance.<br><br>
 <i style="text-align:left;">Supervised by <strong>Edwin Azzam (CTO)</strong>.</i><span style="float:right;"><i align=right>Jul. 2020– Jan. 2021</i></span><br>
   * 3D skeleton inference on images from incomplete 3D data, leveraging full body context (PyTorch, OpenCV).<br><br>
 
-* <b style="text-align:left;">Physics Teaching Assistant</b><span style="float:right;"><b>Neuilly-Sur-Seine, FRANCE</b><i align=right>Sept. 2019– Mar. 2020</i></span><br>* Interrogated students on a weekly basis in physics to train them for the Engineering Schools competitive entrance exams.<br><br><br>
+* <b style="text-align:left;">Physics Oral Examiner</b><span style="float:right;"><b>Neuilly-Sur-Seine, FRANCE</b></span><br>
+<i style="text-align:left;"></i><span style="float:right;"><i align=right>Sept. 2019– Mar. 2020</i></span><br>
+  * Interrogated students on a weekly basis in physics to train them for the Engineering Schools competitive entrance exams.<br><br><br>
   
 
 
