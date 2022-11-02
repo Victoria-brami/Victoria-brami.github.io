@@ -35,7 +35,7 @@
   .buttonsRed1 {cursor: pointer; border-radius: 4px; background-color: #DC143C;}
   .buttonsGreen1 {border-radius: 4px; background-color: #4CAF50;}
   .buttonsBlue1 { width: 4.2em; border-radius: 4px; background-color: #008CBA;}
-  .buttonsOrange1 { width: 4.2em; border-radius: 4px; background-color: #008CBA;}
+  .buttonsOrange1 { width: 4.2em; border-radius: 4px; background-color: #DC8C14;}
   table, th, td {
     border: 0px solid black;
     border-collapse: collapse;
@@ -140,6 +140,16 @@
     <script type="text/javascript">
         document.getElementById("toCodeButton").onclick = function () {
             location.href = "{{ base_path }}{{ post.code }}";
+        };
+    </script>
+  {% endif %}
+  {% if post.slides %}
+    <div class="buttons buttonsOrange1">
+    <buttons id="toCodeButton" class="float-left submit-button" >Slides</buttons>
+    </div>
+    <script type="text/javascript">
+        document.getElementById("toCodeButton").onclick = function () {
+            location.href = "{{ base_path }}{{ post.slides }}";
         };
     </script>
   {% endif %}
