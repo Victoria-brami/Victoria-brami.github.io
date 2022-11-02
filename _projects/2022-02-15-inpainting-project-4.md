@@ -6,9 +6,10 @@ permalink: /projects/2022-02-15-inpainting
 venue: 
 code: https://github.com/victoria-brami/Inpainting_project_mva.git
 slides: /files/slides/Inpainting_presentation.pdf
-abstract: 
+abstract: We compare in this project different methods of image inpainting processes. Deep-Learning based methods outperform patch-based ones since they are capable of filling holes with additional information than the one available in the image. We investigate different ways to improve the Generative model efficiency, by testing and evaluating various architectures.
+report: /files/reports/Inpainting_project.pdf
 img: "/images/celebA_inpainting.gif"
-#date: 2022-02-15
+date: 2022-02-15
 period: December 2021 - February 2022
 location: "Paris, FRANCE"
 ---
