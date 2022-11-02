@@ -148,7 +148,7 @@ bike stations.<br>
   <li class="p8">Linux</li>
   <li class="p8">Git / Gitlab</li>
   <li class="p8">Latex, Beamer</li>
-  <li class="p8">Slack, Trello</li>
+  <li class="p8">Slack, Trello, Figma</li>
   <li class="p8">Microsoft office</li>
 </ul> <br>
 <b style="text-align:left;">Programming Languages:</b>
@@ -170,6 +170,20 @@ bike stations.<br>
 <li class="p8"><p style="text-align:left;"><strong>Italian:</strong> Notions.<span style="float:right;"><i align=right>A2</i></span></p></li>
 </ul> 
 <br>
+
+<h1 style="color:#069;">Community and Volunteering Experience</h1>
+<hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0;color:#33CCFF;">
+
+* <b style="text-align:left;">Maraudes</b><span style="float:right;"><b>Paris, FRANCE</b></span><br>
+<p style="text-align:left;">Discussing and providing drinks and hygiene kits to homeless people.</p><span style="float:right;"><i>2020 - present</i></span><br>
+
+
+* <b style="text-align:left;">Treasurer at ENPC Student Art Club</b><span style="float:right;"><b>Champs-sur-Marne, FRANCE</b></span><br>
+<p style="text-align:left;">In charge of the treasury and the organization of artistic events.</p><span style="float:right;"><i>2019 - 2020</i></span><br>
+
+* <b style="text-align:left;">High School Teaching Assistant</b><span style="float:right;"><b>Paris, FRANCE</b></span><br>
+<p style="text-align:left;">Tutored high school students in mathematics and physics.</p><span style="float:right;"><i>2017 - 2018</i></span><br>
+
 
 <!-- <h1 style="color:#069;">Personal Interests</h1>
 <hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;">
