@@ -78,7 +78,7 @@ Competitive Exam Entrance.<br><br>
   * <p class="p8">Survey and review of the extisting interior monitoring datasets.</p><br>
 
 * <b style="text-align:left;">Research Intern - Ecole Normale Supérieure and Inria</b><span style="float:right;"><b align=right>Paris, FRANCE</b></span><br>
-<i style="text-align:left;">Supervised by <strong>Juliette Millet</strong>, Ewan Dunbar and Emmanuel Dupoux.</i><span style="float:right;"><i align=right>Apr. 2022– Sept. 2022</i></span><br>
+<i style="text-align:left;">Supervised by <strong>Juliette Millet</strong>, Ewan Dunbar and Emmanuel Dupoux.</i><span style="float:right;"><i align=right>Mar. 2021– Jul. 2021</i></span><br>
   * In Cognitive Machine Learning Team (CoML), in the Department of Cognitive Science.
   * Compared common Automatic Speech Recognition Models performances
 (supervised and self-supervised) to model Human Speech Perception.
@@ -148,14 +148,14 @@ bike stations.<br>
   <li class="p8">Linux</li>
   <li class="p8">Git / Gitlab</li>
   <li class="p8">Latex, Beamer</li>
-  <li class="p8">Slack, Trello, Figma</li>
+  <li class="p8">Slack, Trello</li>
   <li class="p8">Microsoft office</li>
 </ul> <br>
 <b style="text-align:left;">Programming Languages:</b>
 <ul>
   <li class="p8">Python (6+ years)</li>
   <li class="p8">C++ (3+ years)</li>
-  <li class="p8">HTML/CSS (beginner)</li>
+  <li class="p8">HTML/CSS/JavaScript (beginner)</li>
 </ul> <br>
 <b style="text-align:left;">Programming Libraries:</b> Pytorch, OpenCV, pandas,plotly, tensorboard, wandb, etc.<br>
 
@@ -170,20 +170,6 @@ bike stations.<br>
 <li class="p8"><p style="text-align:left;"><strong>Italian:</strong> Notions.<span style="float:right;"><i align=right>A2</i></span></p></li>
 </ul> 
 <br>
-
-<h1 style="color:#069;">Community and Volunteering Experience</h1>
-<hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0;color:#33CCFF;">
-
-* <b style="text-align:left;">Maraudes</b><span style="float:right;"><b>Paris, FRANCE</b></span><br>
-<p style="text-align:left;">Discussing and providing drinks and hygiene kits to homeless people.</p><span style="float:right;"><i>2020 - present</i></span><br>
-
-
-* <b style="text-align:left;">Treasurer at ENPC Student Art Club</b><span style="float:right;"><b>Champs-sur-Marne, FRANCE</b></span><br>
-<p style="text-align:left;">In charge of the treasury and the organization of artistic events.</p><span style="float:right;"><i>2019 - 2020</i></span><br>
-
-* <b style="text-align:left;">High School Teaching Assistant</b><span style="float:right;"><b>Paris, FRANCE</b></span><br>
-<p style="text-align:left;">Tutored high school students in mathematics and physics.</p><span style="float:right;"><i>2017 - 2018</i></span><br>
-
 
 <!-- <h1 style="color:#069;">Personal Interests</h1>
 <hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;">
