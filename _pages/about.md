@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Welcome !"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -43,10 +43,10 @@ There are more to come of course ;).
   margin: 4px 6px;
   color: white;
 }
-.buttonsRed1 {cursor: pointer; border-radius: 4px; background-color: #DC143C;}
-.buttonsGreen1 {border-radius: 4px; background-color: #4CAF50;}
+.buttonsRed1 { width: 4.2em; cursor: pointer; border-radius: 4px; background-color: #9A132A;}
+.buttonsGreen1 { width: 4.2em; border-radius: 4px; background-color: #228844;}
 .buttonsBlue1 { width: 4.2em; border-radius: 4px; background-color: #008CBA;}
-.buttonsOrange1 { width: 4.2em; border-radius: 4px; background-color: #DC8C14;}
+.buttonsOrange1 { width: 4.2em; border-radius: 4px; background-color: #BBA333;}
 table, th, td {
   border: 0px solid black;
   border-collapse: collapse;
@@ -220,7 +220,7 @@ span.highlight {
   <buttons id="toDemoButton" class="float-left submit-button" title="What happens in the brain when humans perceive speech? We lay the ground for a new and expansive field of research aimed at reproducing human speech perception behaviour, by developing easy-to-use reference data and evaluation tools. In short, just as the past half-century has developed and tested thousands of speech perception experiments on human listeners, we develop a set of 'speech perception experiments for machines,' in order to find and close the gap between human and machine.">Abstract</buttons>
   </div>
   <div class="buttons buttonsRed1">
-  <buttons id="toPdfButton" class="float-left submit-button" >PDF</buttons>
+  <buttons id="toPdfButton" class="float-left submit-button" >Report</buttons>
   </div>
   <script type="text/javascript">
       document.getElementById("toPdfButton").onclick = function () {

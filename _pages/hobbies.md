@@ -8,83 +8,90 @@ author_profile: true
 {% include base_path %}
 
 <style>
-    span0 {
-    margin-left: 8em;
+span {
+  margin-left: 12em;
 }
-    span01 {
-    margin-left: 8em;
+.list-work{
+  width: 100%;
 }
-  span {
-    margin-left: 12em;
+
+.list-work img {
+  -webkit-transition: -webkit-transform 0.35s;
+  transition: -webkit-transform 0.35s;
+  -o-transition: transform 0.35s;
+  vertical-align: middle;
+  transition: transform 0.35s;
+  transition: transform 0.35s, -webkit-transform 0.35s;
+  object-fit: contain;
+  width: 150px;
+  height: 88px;
+  margin: 20px;
+  vertical-align: middle;
+  float: left;
 }
-  span1 {
-    margin-left: 14em;
-}
-    span02 {
-    margin-left: 15em;
-}
-  span2 {
-    margin-left: 16em;
-}
-  span3 {
-    margin-left: 18em;
-}
-  span4 {
-    margin-left: 20em;
-}
-  span5 {
-    margin-left: 22em;
-}
-  span6 {
-    margin-left: 24em;
-}
-  span8 {
-    margin-left: 26em;
-}
-  span7 {
-    margin-left: 19em;
+
+.list-work img:hover {
+  -webkit-transform: scale3d(0.9, 0.9, 1);
+          transform: scale3d(0.9, 0.9, 1);
 }
 </style>
 
 <p align="justify">
 Besides Mathematics, Vision and Language Modelling, I am also passionate about sports!! I have been practising many different sports, mainly Gymnastics, Breakdancing, Bouldering, Golf and Skateboarding. Also, I played in the school's Basketball team, where we won the Local University championships. 
-I am curious, always eager to learn new things! I am especially fond of History and Foreign countries' culture. I have lived in Japan for almost Seven years and have had the opportunity to travel a lot. Inever get tired of learning !
-
+I am curious, always eager to learn new things! I am especially fond of History and Foreign countries' culture. I have lived in Japan for almost Seven years and have had the opportunity to travel a lot. Inever get tired of learning ! <br>
 </p>
+
+<h2 style="color:#069;">Subsidiary Project</h2>
+<hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0;color:#33CCFF;">
 
 <h2 style="color:#069;">I am currently learning ...</h2>
 <hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0;color:#33CCFF;">
 
 <ul>
-
-  <li class="p8"><b style="font-size: 16px;">Front-end web development: </b>
+  <li class="p8"><b style="font-size: 22px;">Front-end web development: </b>
   <br>
+  <div class="list-work">
   <a href="">
-        <img align="center" src="../images/javascript_logo.png" width="150" height="88">
-</a>
-<span>
-      <p font>HTML / CSS / JavaScript</p><br>
+        <img src="../images/figma_logo.png">
+  </a>
+  <span>
+      <p> Figma: interface design tool.</p>
+  </div><br><br><br><br>
+  <div class="list-work">
+  <a href="">
+        <img src="../images/javascript_logo.png">
+  </a>
+  <span>
+      <p> HTML / CSS / JavaScript.</p><br>
+  </div>
   </li>
-  <li class="p8"><b style="font-size: 16px;">Research Topics</b>
+  <br><br><br>
+  <li class="p8"><b style="font-size: 22px;">Research Topics :</b>
   <br>
+  <div class="list-work">
     <a href="">
           <img align="center" src="" width="150" height="88">
     </a>
     <span>
     <p font>Vision and language crossed models: CLIP, DALLE, etc.<p>
-  <br>
+  </div>
+  <br><br><br><br>
+  <div class="list-work">
     <a href="">
           <img align="center" src="" width="150" height="88">
     </a>
     <span>
     <p font>Learn more about Self-supervised approaches in Computer Vision.<p>
-  <br>
+  </div>
+  <br><br><br><br>
+  <div class="list-work">
       <a href="">
           <img align="center" src="" width="150" height="88">
     </a>
     <span>
     <p font>Learn more about Segmentation tasks in Computer Vision.<p>
-  <br>
+  </div>
+  <br><br><br><br>
   </li>
 </ul> <br>
 
@@ -92,20 +99,25 @@ I am curious, always eager to learn new things! I am especially fond of History 
 <hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0;color:#33CCFF;">
 
 <ul>
-  <li class="p8"><b style="font-size: 16px;"Development: </b>
+  <li class="p8"><b style="font-size: 22px;">Software Development: </b>
   <br>
+  <div class="list-work">
   <a href="">
-        <img align="center" src="../images/arduino-icon.png" width="150" height="88">
+        <img align="center" src="../images/arduino-icon.png" width="150" height="100">
 </a>
 <span>
-      <p font>HTML / CSS / JavaScript</p><br>
+      <p font>Use of Arduino / Raspberry PI.</p>
+</div>
+<br><br><br><br>
   </li>
-  <li class="p8"><b style="font-size: 16px;">Research Topics</b>
+  <li class="p8"><b style="font-size: 22px;">Research Topics : </b>
+  <div class="list-work">
       <a href="">
           <img align="center" src="" width="150" height="88">
     </a>
     <span>
     <p font>Learn more about Audio Processing Methods (source separation, etc.)<p>
+  </div>
   <br>
   </li>
 </ul>
