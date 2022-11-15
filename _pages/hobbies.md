@@ -44,6 +44,8 @@ I am curious, always eager to learn new things! I am especially fond of History 
 <h2 style="color:#069;">Subsidiary Project</h2>
 <hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0;color:#33CCFF;">
 
+With two classmates, we are developing an **online-platform** where all the University grants would be centralized. This website would list all the available grants and fellowships and would match automatically with profiles repsecting their criteria.
+
 <h2 style="color:#069;">I am currently learning ...</h2>
 <hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0;color:#33CCFF;">
 
