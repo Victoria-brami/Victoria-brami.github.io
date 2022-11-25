@@ -43,8 +43,13 @@ I am curious, always eager to learn new things! I am especially fond of History 
 
 <h2 style="color:#069;">Subsidiary Project</h2>
 <hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0;color:#33CCFF;">
+ <div class="list-work">
+  <a href="">
+        <img src="../images/nepthune_logo.png">
+  </a>
+  <span>
+      <p> With two classmates, we are developing an **online-platform** where all the University grants would be centralized. This website would list all the available grants and fellowships and would match automatically with profiles repsecting their criteria.</p>
 
-With two classmates, we are developing an **online-platform** where all the University grants would be centralized. This website would list all the available grants and fellowships and would match automatically with profiles repsecting their criteria.
 
 <h2 style="color:#069;">I am currently learning ...</h2>
 <hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0;color:#33CCFF;">
@@ -65,8 +70,6 @@ With two classmates, we are developing an **online-platform** where all the Univ
   </a>
   <span>
       <p> HTML / CSS / JavaScript.</p><br>
-  </div>
-  </li>
   <br><br><br>
   <li class="p8"><b style="font-size: 22px;">Research Topics :</b>
   <br>
@@ -76,7 +79,6 @@ With two classmates, we are developing an **online-platform** where all the Univ
     </a>
     <span>
     <p font>Vision and language crossed models: CLIP, DALLE, etc.<p>
-  </div>
   <br><br><br><br>
   <div class="list-work">
     <a href="">
@@ -84,7 +86,6 @@ With two classmates, we are developing an **online-platform** where all the Univ
     </a>
     <span>
     <p font>Learn more about Self-supervised approaches in Computer Vision.<p>
-  </div>
   <br><br><br><br>
   <div class="list-work">
       <a href="">
@@ -92,9 +93,7 @@ With two classmates, we are developing an **online-platform** where all the Univ
     </a>
     <span>
     <p font>Learn more about Segmentation tasks in Computer Vision.<p>
-  </div>
   <br><br><br><br>
-  </li>
 </ul> <br>
 
 <h2 style="color:#069;">New things I'd like to learn ...</h2>
