@@ -182,6 +182,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -193,10 +196,7 @@ collections:
     permalink: /:collection/:path/
   personal_interests:
     output: true
-    permalink: /:collection/:path/  
-  files:
-    output: true
-    permalink: /:collection/:path/      
+    permalink: /:collection/:path/       
 
 # Defaults
 defaults:
@@ -280,7 +280,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Paris # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
