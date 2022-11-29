@@ -53,7 +53,7 @@ table, th, td {
 }
 date_title {
       font-family: 'Lato', Verdana, Helvetica, sans-serif;
-      font-size: 20px;
+      font-size: 24px;
       text-align: left;
       color: #069;
   }
@@ -100,7 +100,7 @@ span.highlight {
 /* Publications post css */
 
 .list-work{
-  width: 100%;
+  width: 120%;
 }
 
 .list-work img {
@@ -139,7 +139,7 @@ span.highlight {
 <p align=justify></p>
 <br>
 <date_title><b>2021</b></date_title>
-    <hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0">
+<hr style="border:1px solid #d3d3d3;width:100%;text-align:left;margin-left:0">
 {% for post in site.publications reversed %}
   {% include archive-single-internship.html %}
  <!-- {% include archive-single-project.html %} -->
