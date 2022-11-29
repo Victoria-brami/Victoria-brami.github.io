@@ -120,12 +120,6 @@ span.highlight {
 <p style="width:120%;text-align:justify;"></p>
 
 <h1 style="width:120%;text-align:justify;">Selected Projects</h1>
-<hr style="border:1px solid #d3d3d3;width:120%;text-align:left;margin-left:0">
-<p style="width:120%;text-align:justify;">Here are some examples of the projects I have carried out, do not hesitate to click [on this link](https://victoria-brami.github.io/hobbies/) for more!
-There are more to come of course ;).</p>
-
-
-<hr style="border:1px solid #d3d3d3;width:120%;text-align:left;margin-left:0">
 <br>
 <date_title><b>2022</b></date_title>
 <hr style="border:1px solid #d3d3d3;width:120%;text-align:left;margin-left:0">
