@@ -142,29 +142,29 @@
   {% endif %}
   {% if post.report %}
     <div class="buttons buttonsRed1">
-    <buttons id="toPdfButton" class="float-left submit-button" >Report</buttons></div>
+    <buttons id="{{ post.title }}_1" class="float-left submit-button" >Report</buttons></div>
     <script type="text/javascript">
-        document.getElementById("toPdfButton").onclick = function () {
+        document.getElementById("{{ post.title }}_1").onclick = function () {
             location.href = "{{ base_path }}{{ post.report }}";
         };
     </script>
   {% endif %}
   {% if post.code %}
     <div class="buttons buttonsGreen1">
-    <buttons id="toCodeButton" class="float-left submit-button" >Code</buttons>
+    <buttons id="{{ post.title }}_2" class="float-left submit-button" >Code</buttons>
     </div>
     <script type="text/javascript">
-        document.getElementById("toCodeButton").onclick = function () {
+        document.getElementById("{{ post.title }}_2").onclick = function () {
             location.href = "{{ base_path }}{{ post.code }}";
         };
     </script>
   {% endif %}
   {% if post.slides %}
     <div class="buttons buttonsOrange1">
-    <buttons id="toCodeButton" class="float-left submit-button" >Slides</buttons>
+    <buttons id="{{ post.title }}_3" class="float-left submit-button" >Slides</buttons>
     </div>
     <script type="text/javascript">
-        document.getElementById("toCodeButton").onclick = function () {
+        document.getElementById("{{ post.title }}_3").onclick = function () {
             location.href = "{{ base_path }}{{ post.slides }}";
         };
     </script>
