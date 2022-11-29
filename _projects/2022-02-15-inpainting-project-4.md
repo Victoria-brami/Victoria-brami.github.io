@@ -4,6 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /projects/2022-02-15-inpainting
 venue: 
+authors: Victoria Brami, Clarine Vongpaseut.
 code: https://github.com/victoria-brami/Inpainting_project_mva.git
 slides: /files/slides/Inpainting_presentation.pdf
 abstract: We compare in this project different methods of image inpainting processes. Deep-Learning based methods outperform patch-based ones since they are capable of filling holes with additional information than the one available in the image. We investigate different ways to improve the Generative model efficiency, by testing and evaluating various architectures.
