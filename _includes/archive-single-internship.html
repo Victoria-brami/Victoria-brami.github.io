@@ -134,8 +134,12 @@
         <p><a href="https://victoria-brami.github.io">
         <papertitle>{{ post.title }}</papertitle></a>
         <p class="space">{{ post.authors }}</p>
-        <p class="space">{{ post.where }}, {{ post.period }}<strong> (Oral).</strong></p>
-  {% if post.abstract %}<div class="buttons buttonsBlue1"><buttons id="toDemoButton" class="float-left submit-button" title="{{ post.abstract }}"> Abstract </buttons></div>{% endif %}
+        <p class="space">{{ post.where }}, {{ post.period }}</p>
+  {% if post.abstract %}
+    <div class="buttons buttonsBlue1">
+      <buttons id="toDemoButton" class="float-left submit-button" title="{{ post.abstract }}"> Abstract </buttons>
+    </div>
+  {% endif %}
   {% if post.report %}
     <div class="buttons buttonsRed1">
     <buttons id="toPdfButton" class="float-left submit-button" >Report</buttons></div>
