@@ -48,7 +48,7 @@ I am curious, always eager to learn new things! I am especially fond of History 
         <img src="../images/nepthune_logo.png">
   </a>
   <span>
-      <p> With two classmates, we are developing **Nepthune**, an **online-platform** where all the University grants would be centralized. This website would list all the available grants and fellowships and would match automatically with profiles repsecting their criteria.</p>
+      <p> With two classmates, we are developing <b>Nepthune</b>, an <b>online-platform</b> which guarantees the centralization of all available studentships/fellowships. This website would list all the available grants and fellowships and would match automatically with profiles repsecting their criteria.</p>
 
 
 <h2 style="color:#069;">I am currently learning ...</h2>
