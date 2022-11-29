@@ -108,9 +108,7 @@ I am curious, always eager to learn new things! I am especially fond of History 
 </a>
 <span>
       <p font>Use of Arduino / Raspberry PI.</p>
-</div>
 <br><br><br><br>
-  </li>
   <li class="p8"><b style="font-size: 22px;">Research Topics : </b>
   <div class="list-work">
       <a href="">
@@ -118,10 +116,7 @@ I am curious, always eager to learn new things! I am especially fond of History 
     </a>
     <span>
     <p font>Learn more about Audio Processing Methods (source separation, etc.)<p>
-  </div>
   <br>
-  </li>
-</ul>
 <!-- <h1 style="color:#069;">Personal Interests</h1>
 <hr style="width:100%;text-align:left;margin-left:0;color:#33CCFF;">
 <h1 style="color:#069;">Community and Volunteering Experience</h1>
