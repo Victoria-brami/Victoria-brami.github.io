@@ -1,5 +1,5 @@
 ---
-title: "Action Conditioned 3D Human Generation with Transformers"
+title: "Improving Action Conditioned 3D Human Generation with Transformers: an application to gymnastics moves"
 where: MSc Project (MVA)
 link: https://victoria-brami.github.io
 authors: Victoria Brami.
