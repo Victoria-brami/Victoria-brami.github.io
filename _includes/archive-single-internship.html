@@ -88,7 +88,19 @@
   /* Publications post css */
   
   .list-work{
-    width: 100%;
+    width: 120%;
+  }
+
+  space {
+    line-height: 1.15em;
+  }
+
+  space_big {
+    line-height: 1.5em;
+  }
+
+  space_small {
+    line-height: 1.0em;
   }
   
   .list-work img {
@@ -121,8 +133,8 @@
         <span>
         <p><a href="https://victoria-brami.github.io">
         <papertitle>{{ post.title }}</papertitle></a>
-        <p>{{ post.authors }}</p>
-        <p>{{ post.where }}, {{ post.period }}<strong> (Oral).</strong></p><br>
+        <p class="space">{{ post.authors }}</p>
+        <p class="space">{{ post.where }}, {{ post.period }}<strong> (Oral).</strong></p>
   {% if post.abstract %}<div class="buttons buttonsBlue1"><buttons id="toDemoButton" class="float-left submit-button" title="{{ post.abstract }}"> Abstract </buttons></div>{% endif %}
   {% if post.report %}
     <div class="buttons buttonsRed1">
