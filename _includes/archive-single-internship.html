@@ -140,6 +140,12 @@
       <buttons id="toDemoButton" class="float-left submit-button" title="{{ post.abstract }}"> Abstract </buttons>
     </div>
   {% endif %}
+  <div class="buttons buttonsBlue1">
+    <buttons id="toDemoButton2" class="float-left submit-button" title="{{ base_path }}{{ post.report }}"> Test </buttons>
+  </div>
+  <div class="buttons buttonsBlue1">
+    <buttons id="toDemoButton3" class="float-left submit-button" title="{{ base_path }}{{ post.slides }}"> Test </buttons>
+  </div>
   {% if post.report %}
     <div class="buttons buttonsRed1">
     <buttons id="{{ post.title }}_1" class="float-left submit-button" >Report</buttons></div>
