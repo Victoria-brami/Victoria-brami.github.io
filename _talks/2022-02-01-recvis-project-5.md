@@ -1,6 +1,6 @@
 ---
 title: "Action-Conditioned 3D Human Generation with Transformers"
-where: : MSc Project (MVA)
+where: MSc Project (MVA)
 link: https://victoria-brami.github.io
 authors: Victoria Brami
 collection: talks

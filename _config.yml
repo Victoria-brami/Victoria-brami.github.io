@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Victoria Brami"
 title_separator          : "-"
 name                     : &name "Victoria Brami"
-description              : &description "MVA Student at ENS Paris-Saclay | Ecole des Ponts ParisTech"
+description              : #&description "MVA Student at ENS Paris-Saclay | Ecole des Ponts ParisTech"
 url                      : https://victoria-brami.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "victoria-brami/victoria-brami.github.io"
@@ -334,3 +334,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+# Outputting 
+timezone: Europe/Paris

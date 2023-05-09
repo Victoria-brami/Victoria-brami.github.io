@@ -1,16 +1,20 @@
 # main links links
 main:
   - title: "Projects"
-    url: /projects/    
+    url: /projects/  
+    options: "" 
 
   - title: "Courses"
-    url: /courses/    
+    url: /courses/   
+    options:  "" 
     
   - title: "About"
     url: /hobbies/
+    options:   
 
   - title: "CV/Resume"
-    url: /cv/       
+    url: /files/BRAMI_Victoria_resume_2023.pdf  
+    options: "download"       
      
   # - title: "Blog Posts"
   #   url: /year-archive/
