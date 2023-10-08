@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Victoria Brami"
   avatar           : "image_profile.jpg"
-  bio              : "MSc. Student in Applied Mathematics and ML/CV at ENS Paris-Saclay and Ecole des Ponts ParisTech"
+  bio              : "University of Edinburgh | ENS Paris-Saclay | Ecole des Ponts ParisTech"
   location         : "Paris, FRANCE"
   employer         :
           #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "victoria.brami88@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

@@ -13,6 +13,8 @@ author_profile: true
       }
   </style>
 </head>
+
+
 Here is a list of the different courses I followed during the master. You can find more about my academic background in [my resume](https://victoria-brami.github.io/cv/)
 1. <p><strong>Convex Optimization </strong><br>(A. D'Aspremont, <a href="https://www.di.ens.fr/sierra/">Inria PARIS, Sierra team</a>).</p>
 2. <p><strong>3D Computer Vision </strong><br>(P. Monasse and M. Aubry, <a href="https://imagine-lab.enpc.fr/">Imagine ENPC-LIGM</a>).</p>
