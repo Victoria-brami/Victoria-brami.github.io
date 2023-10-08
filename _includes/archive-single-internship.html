@@ -101,72 +101,87 @@ table, th, td {
   .space_small {
     line-height: 1.0em;
   }
-  
-  .list-work img {
+  .list-work {
+    margin-top: 2%;
+    margin-bottom: 2%;
+
+  }
+  .list-work .card img {
     -webkit-transition: -webkit-transform 0.35s;
     transition: -webkit-transform 0.35s;
     -o-transition: transform 0.35s;
-    vertical-align: middle;
-    transition: transform 0.35s;
     transition: transform 0.35s, -webkit-transform 0.35s;
     object-fit: contain;
     background-color: white;
-    width: 300px;
-    height: 225px;
-    margin: 10px;
-    vertical-align: middle;
-    float: left;
+    /* width: 300px;
+    height: 225px; */
+    /* margin: 10px; */
+    float: center;
+    align-items: center;
+  }
+
+  .list-work .card a {
+    text-align: center;
+    width: 20%;
   }
   
+  .list-work .card-text {
+      margin-top: 2%;
+      text-align: left;
+      width: 100%;
+  }
   .list-work img:hover {
-    -webkit-transform: scale3d(0.9, 0.9, 1);
-            transform: scale3d(0.9, 0.9, 1);
+    -webkit-transform: scale3d(0.95, 0.95, 1);
+            transform: scale3d(0.95, 0.95, 1);
   }
   </style>
+ 
   </head>
   
   <div class="list-work">
-        <a href="">
-          <img src="{{ base_path }}{{ post.img }}"> <!-- Image is mandatory for publications -->
-        </a>
-        <span>
-        <p><a href="https://victoria-brami.github.io">
-        <papertitle>{{ post.title }}</papertitle></a>
-        <p class="space">{{ post.authors }}</p>
-        <p class="space">{{ post.where }}, {{ post.period }}</p>
-  {% if post.abstract %}
-    <div class="buttons buttonsBlue1">
-      <buttons id="toDemoButton" class="float-left submit-button" title="{{ post.abstract }}"> Abstract </buttons>
+    <div class="card">
+      <a href="#">
+        <img src="{{ base_path }}{{ post.img }}"> <!-- Image is mandatory for publications -->
+      </a>
     </div>
-  {% endif %}
-  {% if post.report %}
-    <div class="buttons buttonsRed1">
-    <buttons id="{{ post.title }}_1" class="float-left submit-button" >Report</buttons></div>
-    <script type="text/javascript">
-        document.getElementById("{{ post.title }}_1").onclick = function () {
-            location.href = "{{ base_path }}{{ post.report }}";
-        };
-    </script>
-  {% endif %}
-  {% if post.code %}
-    <div class="buttons buttonsGreen1">
-    <buttons id="{{ post.title }}_2" class="float-left submit-button" >Code</buttons>
-    </div>
-    <script type="text/javascript">
-        document.getElementById("{{ post.title }}_2").onclick = function () {
-            location.href = "{{ base_path }}{{ post.code }}";
-        };
-    </script>
-  {% endif %}
-  {% if post.slides %}
-    <div class="buttons buttonsOrange1">
-    <buttons id="{{ post.title }}_3" class="float-left submit-button" >Slides</buttons>
-    </div>
-    <script type="text/javascript">
-        document.getElementById("{{ post.title }}_3").onclick = function () {
-            location.href = "{{ base_path }}{{ post.slides }}";
-        };
-    </script>
-  {% endif %}
-  <p align=justify> 
+    <div class="card-text">
+          <a href="https://victoria-brami.github.io" style="text-decoration:none;margin-bottom:1%;"><papertitle>{{ post.title }}</papertitle></a>
+          <p class="space" style="margin-top: 2%;">{{ post.authors }}<br>{{ post.where }}, {{ post.period }}</p>
+        {% if post.abstract %}
+          <div class="buttons buttonsBlue1">
+            <buttons id="toDemoButton" class="float-left submit-button" title="{{ post.abstract }}"> Abstract </buttons>
+          </div>
+        {% endif %}
+        {% if post.report %}
+          <div class="buttons buttonsRed1">
+          <buttons id="{{ post.title }}_1" class="float-left submit-button" >Report</buttons></div>
+          <script type="text/javascript">
+              document.getElementById("{{ post.title }}_1").onclick = function () {
+                  location.href = "{{ base_path }}{{ post.report }}";
+              };
+          </script>
+        {% endif %}
+        {% if post.code %}
+          <div class="buttons buttonsGreen1">
+          <buttons id="{{ post.title }}_2" class="float-left submit-button" >Code</buttons>
+          </div>
+          <script type="text/javascript">
+              document.getElementById("{{ post.title }}_2").onclick = function () {
+                  location.href = "{{ base_path }}{{ post.code }}";
+              };
+          </script>
+        {% endif %}
+        {% if post.slides %}
+          <div class="buttons buttonsOrange1">
+          <buttons id="{{ post.title }}_3" class="float-left submit-button" >Slides</buttons>
+          </div>
+          <script type="text/javascript">
+              document.getElementById("{{ post.title }}_3").onclick = function () {
+                  location.href = "{{ base_path }}{{ post.slides }}";
+              };
+          </script>
+        {% endif %}
+      </div>
+    </div>      
+      <p align=justify> 
   </p><br><br>

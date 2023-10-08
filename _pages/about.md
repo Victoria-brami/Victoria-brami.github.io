@@ -34,21 +34,17 @@ Alongside my work, I develop with a friend <b><a href="#" style="text-decoration
 </ul><br><br>
 
 <h1>Selected Projects</h1>
-<br>
 <date_title><b>2022</b></date_title>
 <hr style="border:1px solid #d3d3d3;text-align:left;margin-left:0">
 {% for post in site.projects reversed %}
-  {% include archive-single-internship.html %}
- <!-- {% include archive-single-project.html %} -->
+  {% include archive-single-internship.html %}<br>
 {% endfor %}
-<p align=justify></p>
 <p align=justify></p>
 <br>
 <date_title><b>2021</b></date_title>
 <hr style="border:1px solid #d3d3d3;width:120%;text-align:left;margin-left:0">
 {% for post in site.publications reversed %}
   {% include archive-single-internship.html %}
- <!-- {% include archive-single-project.html %} -->
 {% endfor %}
 
 </div>

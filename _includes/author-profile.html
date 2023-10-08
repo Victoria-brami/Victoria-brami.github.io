@@ -4,6 +4,8 @@
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+
 <div itemscope itemtype="http://schema.org/Person">
 
   <div class="author__avatar">
@@ -19,9 +21,26 @@
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
-  <div class="author__urls-wrapper">
+  <div class="author__urls-wrapper" style="align-items: center; vertical-align: middle;">
     <button class="btn btn--inverse">Follow</button>
-    <ul class="author__urls social-icons">
+    <div class="social-links" style="align-items: center;">
+      {% if author.email %}
+      <a href="mailto:{{ author.email }}" target="_blank">
+        <i class="ri-mail-fill ri-2x"></i>
+      </a>
+      {% endif %}
+      {% if author.github %}
+      <a href="{{ author.github }}" target="_blank">
+        <i class="ri-github-fill ri-2x"></i>
+      </a>
+      {% endif %}
+      {% if author.linkedin %}
+      <a href="{{ author.linkedin }}" target="_blank">
+        <i class="ri-linkedin-box-fill ri-2x"></i>
+      </a>
+      {% endif %}
+  </div>
+    <!-- <ul class="author__urls social-icons">
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
@@ -118,6 +137,6 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
-    </ul>
+    </ul> -->
   </div>
 </div>
