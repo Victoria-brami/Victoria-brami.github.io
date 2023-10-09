@@ -21,9 +21,9 @@
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
-  <div class="author__urls-wrapper" style="align-items: center; vertical-align: middle;">
+  <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
-    <div class="social-links" style="align-items: center;">
+    <div class="social-links" style="margin-top:-10%;align-items:center;text-align:center;">
       {% if author.email %}
       <a href="mailto:{{ author.email }}" target="_blank">
         <i class="ri-mail-fill ri-2x"></i>
