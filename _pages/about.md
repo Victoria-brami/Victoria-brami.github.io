@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Victoria Brami"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -42,7 +42,7 @@ Alongside my work, I develop with a friend <b><a href="#" style="text-decoration
 <p align=justify></p>
 <br>
 <date_title><b>2021</b></date_title>
-<hr style="border:1px solid #d3d3d3;width:120%;text-align:left;margin-left:0">
+<hr style="border:1px solid #d3d3d3;text-align:left;margin-left:0">
 {% for post in site.publications reversed %}
   {% include archive-single-internship.html %}
 {% endfor %}

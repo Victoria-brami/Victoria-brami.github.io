@@ -133,7 +133,8 @@
 
 .author__urls-wrapper {
   position: relative;
-  display: table-cell;
+  display: inline-block; //table-cell;
+  
   vertical-align: middle;
   font-family: $sans-serif;
   z-index: 10;
@@ -161,7 +162,7 @@
 
 .author__urls {
   display: none;
-  position: absolute;
+  position: inline-block; //absolute;
   right: 0;
   margin-top: 15px;
   padding: 10px;
@@ -174,17 +175,17 @@
   cursor: default;
 
   @include breakpoint($large) {
-    display: block;
+    display: flex;
     position: relative;
-    margin: 0;
-    padding: 0;
+    margin-left: 0;
+    padding-left: 0;
     border: 0;
     background: transparent;
     box-shadow: none;
   }
 
   &:before {
-    display: block;
+    display: flex;
     content: "";
     position: absolute;
     top: -11px;
@@ -201,7 +202,8 @@
   }
 
   &:after {
-    display: block;
+    display: inline-block;
+
     content: "";
     position: absolute;
     top: -10px;
@@ -222,12 +224,12 @@
   }
 
   a {
-    display: block;
+    display: inline-block;
     margin-bottom: 5px;
     padding-right: 5px;
     padding-top: 2px;
     padding-bottom: 2px;
-    color: inherit;
+    color:  #52adc8;;
     font-size: $type-size-5;
     text-decoration: none;
 

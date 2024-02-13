@@ -23,23 +23,23 @@
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
-    <div class="social-links" style="margin-top:-10%;align-items:center;text-align:center;">
+    <ul class="social-links author__urls">
       {% if author.email %}
-      <a href="mailto:{{ author.email }}" target="_blank">
+      <li><a href="mailto:{{ author.email }}" target="_blank">
         <i class="ri-mail-fill ri-2x"></i>
-      </a>
+      </a></li>
       {% endif %}
       {% if author.github %}
-      <a href="{{ author.github }}" target="_blank">
+      <li><a href="{{ author.github }}" target="_blank">
         <i class="ri-github-fill ri-2x"></i>
-      </a>
+      </a></li>
       {% endif %}
       {% if author.linkedin %}
-      <a href="{{ author.linkedin }}" target="_blank">
+      <li><a href="{{ author.linkedin }}" target="_blank">
         <i class="ri-linkedin-box-fill ri-2x"></i>
-      </a>
+      </a></li>
       {% endif %}
-  </div>
+    </ul>
     <!-- <ul class="author__urls social-icons">
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
@@ -138,5 +138,6 @@
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
     </ul> -->
+
   </div>
 </div>
