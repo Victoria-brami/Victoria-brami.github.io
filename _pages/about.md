@@ -15,13 +15,14 @@ header-img : /images/iceland_travel.JPG
 <div class="justified-text">
 <p>Hi there, I am a Visiting Student in Cognitive Science and Natural Language Processing at the University of Edinburgh, in <b><a href="https://homepages.inf.ed.ac.uk/keller/" style="text-decoration:none;">Frank Keller's Group</a></b>. I work there on brain decoding using <b>diffusion models</b>.
 I just graduated from the ENS (Ecole Normale Supérieure) Paris-Saclay and Ecole des Ponts ParisTech with an MSc. in Applied Mathematics, Deep Learning and Computer Vision (<b>Master MVA</b>).<br><br>
-
 Previously I have done various research internships in Computer Vision. The latest one was in Valeo.ai where I was supervised by <a href="http://ptrckprz.github.io">Patrick Perez</a>: my research focused on developping Driver Monitoring Sytems through the analysis of the driver with 3D Pose Estimation.
 You can also find in details the courses I followed during my master <a href="https://victoria-brami.github.io/courses/">here</a> and my <a href="https://victoria-brami.github.io/cv/">resume</a>.<br><br>
 
 I am looking for a PhD starting in Spring-Summer 2024, with a deep interest in <b>Multimodal Learning (Vision-Audio-Language)</b> and <b>Cognitive Science</b>. Feel free to reach out or drop me an email if you would like to chat!<br><br>
-Alongside my work, I develop with a friend <b><a href="#" style="text-decoration:none;">Nepthune</a></b>. Nepthune an online platform which draws up a list of all the scholarships accessible to students in France and shortlists automatically the best candidates to those fellowships. Through Nepthunem our goal is to tackle the ineauqlity of opportunities in Higher Education!
+Alongside my work, I develop with a friend <b><a href="#" style="text-decoration:none;">Nepthune</a></b>. Nepthune an online platform which draws up a list of all the scholarships accessible to students in France and shortlists automatically the best candidates to those fellowships. Through Nepthune, our goal is to tackle the ineauqlity of opportunities in Higher Education!
 </p>
+
+<img src="{{base_path}}/files/gym_video.gif" alt="Computer man" style="margint-left:auto;margin-right:;auto;align:center;width:800px;">
 
 
 <h1>News</h1>
