@@ -12,6 +12,8 @@ header-img : /images/iceland_travel.JPG
 {% include about_style.html %}
 
 
+
+
 <div class="justified-text">
 <p>Hi there, I am a Visiting Student in Cognitive Science and Natural Language Processing at the University of Edinburgh, in <b><a href="https://homepages.inf.ed.ac.uk/keller/" style="text-decoration:none;">Frank Keller's Group</a></b>. I work there on brain decoding using <b>diffusion models</b>.
 I just graduated from the ENS (Ecole Normale Supérieure) Paris-Saclay and Ecole des Ponts ParisTech with an MSc. in Applied Mathematics, Deep Learning and Computer Vision (<b>Master MVA</b>).<br>
@@ -28,13 +30,15 @@ Outside of work, I love practicing all kinds of sports, especially gymnastics, c
 
 <figure>
 <img src="{{base_path}}/files/gym_video.gif" alt="Computer man" style="margint-left:auto;margin-right:;auto;align:center;width:800px;">
-<figcaption>Random Gymnastics session, generated with MotionBERT</figcaption>
+<figcaption style="text-align:center;">Random Gymnastics session, generated with MotionBERT</figcaption>
 </figure>
 
 
 
 <h1>News</h1>
 <ul style="list-style-type:none;">
+    <li><span class="badge secondary">2024.02</span> Extending my stay in the wonderful city of Edinburgh!</li>
+    <li><span class="badge">2023.12</span> Finally graduated from my second master at Ecole des Ponts ParisTech</li>
     <li><span class="badge primary">2023.07</span> Nepthune was awarded an <a href="https://www.fondationdesponts.fr/prix-dencouragement-a-lentrepreneuriat-2023/">Entrepreneurship Prize</a> of 3k euros!</li>
     <li><span class="badge secondary">2023.07</span> Starting a research internship at the University of Edinburgh!</li>
     <li><span class="badge">2022.11</span> Graduated from the MVA master</li>
